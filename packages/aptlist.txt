@@ -218,6 +218,7 @@ gettext-base
 gettext
 gh
 ghostscript
+ghostty
 gir1.2-accountsservice-1.0
 gir1.2-adw-1
 gir1.2-atk-1.0
@@ -312,8 +313,6 @@ gnome-software-plugin-flatpak
 gnome-software
 gnome-startup-applications
 gnome-system-monitor
-gnome-terminal-data
-gnome-terminal
 gnome-text-editor
 gnome-themes-extra-data
 gnome-themes-extra
@@ -1407,6 +1406,7 @@ liburing2
 libusb-1.0-0
 libusbmuxd6
 libusbredirparser1t64
+libutempter0
 libuuid1
 libuv1-dev
 libuv1t64
@@ -1649,7 +1649,6 @@ mysql-workbench-community
 nala
 nano
 nautilus-data
-nautilus-extension-gnome-terminal
 nautilus-sendto
 nautilus
 ncurses-base
@@ -2472,6 +2471,7 @@ xserver-xorg-video-radeon
 xserver-xorg-video-vesa
 xserver-xorg-video-vmware
 xserver-xorg
+xterm
 xwayland
 xxd
 xz-utils
