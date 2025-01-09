@@ -10,8 +10,8 @@ core20                     20240911                          2434   latest/stabl
 core22                     20241119                          1722   latest/stable    canonical**          base
 core24                     20240920                          609    latest/stable    canonical**          base
 desktop-security-center    0+git.9d68ad0                     43     latest/stable    canonical**          -
-drawio                     26.0.3                            232    latest/stable    jgraph**             -
-firefox                    133.0.3-1                         5437   latest/stable    mozilla**            -
+drawio                     26.0.4                            233    latest/stable    jgraph**             -
+firefox                    134.0-1                           5561   latest/stable    mozilla**            -
 firmware-updater           0+git.7983059                     147    latest/stable    canonical**          -
 gimp                       2.10.38                           436    latest/stable    snapcrafters*        -
 gnome-3-28-1804            3.28.0-19-g98f9e67.98f9e67        198    latest/stable    canonical**          -
