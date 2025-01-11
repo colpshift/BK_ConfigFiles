@@ -31,7 +31,7 @@ prompting-client           0+git.e2e32ad                     80     latest/stabl
 qt515-core20               5.15.4                            43     latest/stable    keshavnrj*           -
 shortwave                  3.2.0                             89     latest/stable    alexmurray*          -
 snap-store                 0+git.7a3a49a6                    1248   2/stable/…       canonical**          -
-snapd                      2.66.1                            23258  latest/stable    canonical**          snapd
+snapd                      2.67                              23545  latest/stable    canonical**          snapd
 snapd-desktop-integration  0.9                               253    latest/stable    canonical**          -
 vlc                        3.0.20-1-g2617de71b6              3777   latest/stable    videolan**           -
 whatsie                    v4.16.3.20eef26                   165    latest/stable    keshavnrj*           -
