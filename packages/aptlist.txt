@@ -2184,7 +2184,6 @@ python3-minimal
 python3-more-itertools
 python3-msgpack
 python3-netaddr
-python3-netifaces
 python3-netplan
 python3-oauthlib
 python3-olefile
