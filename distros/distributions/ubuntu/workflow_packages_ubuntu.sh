@@ -11,6 +11,10 @@ swappiness=10
 sudo apt install libfuse2t64
 sudo apt install ubuntu-restricted-extras
 
+### AI
+Copilot Dekstop
+Gemini Desktop
+
 ### Pin
 calendar
 thunderbird
