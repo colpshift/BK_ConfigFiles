@@ -16,6 +16,9 @@ Extensions	org.gnome.Extensions	47.2	stable	system
 GNOME Application Platform version 47	org.gnome.Platform		47	system
 Yaru-dark Gtk Theme	org.gtk.Gtk3theme.Yaru-dark		3.22	system
 KDE Application Platform	org.kde.Platform		5.15-23.08	system
+KDE Application Platform	org.kde.Platform		5.15-24.08	system
 QGnomePlatform	org.kde.PlatformTheme.QGnomePlatform		5.15-23.08	system
+QGnomePlatform	org.kde.PlatformTheme.QGnomePlatform		5.15-24.08	system
 QAdwaitaDecorations	org.kde.WaylandDecoration.QAdwaitaDecorations		5.15-23.08	system
+QAdwaitaDecorations	org.kde.WaylandDecoration.QAdwaitaDecorations		5.15-24.08	system
 QGnomePlatform-decoration	org.kde.WaylandDecoration.QGnomePlatform-decoration		5.15-23.08	system
