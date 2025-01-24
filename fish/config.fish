@@ -13,9 +13,9 @@ abbr --add df duf
 abbr --add du dust
 abbr --add ps procs
 abbr --add su 'sudo -i'
-#abbr --add vi '/home/colp/.local/bin/nvim'
-#abbr --add vim '/home/colp/.local/bin/nvim'
-#abbr --add gvim '/home/colp/.local/bin/nvim'
+abbr --add vi '/home/colp/.local/bin/nvim'
+abbr --add vim '/home/colp/.local/bin/nvim'
+abbr --add gvim '/home/colp/.local/bin/nvim'
 abbr --add fd fdfind
 abbr --add cat 'bat --theme Nord'
 abbr --add bat 'bat --theme Nord'

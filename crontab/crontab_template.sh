@@ -12,6 +12,3 @@
 # day of week    0-7 (0 or 7 is Sun, or use names)
 #
 #--------------------------------------------------
-#
-00 08 * * * /home/colps/.scripts/nvim_install_update.sh
-
