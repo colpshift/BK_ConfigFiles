@@ -42,6 +42,7 @@ bind9-libs
 binutils-common
 binutils-x86-64-linux-gnu
 binutils
+blt
 bluez-cups
 bluez-obexd
 bluez
@@ -51,7 +52,6 @@ bpftrace
 brltty
 bsdextrautils
 bsdutils
-btop
 bubblemail
 bubblewrap
 build-essential
@@ -1362,6 +1362,7 @@ libtimedate-perl
 libtinfo6
 libtirpc-common
 libtirpc3t64
+libtk8.6
 libtool-bin
 libtool
 libtotem-plparser-common
@@ -2134,6 +2135,7 @@ python3-babel
 python3-blinker
 python3-bpfcc
 python3-brlapi
+python3-brotli
 python3-cairo
 python3-certifi
 python3-cffi-backend
@@ -2189,6 +2191,7 @@ python3-oauthlib
 python3-olefile
 python3-packaging
 python3-pexpect
+python3-pil.imagetk
 python3-pil
 python3-pip-whl
 python3-pip
@@ -2216,10 +2219,12 @@ python3-software-properties
 python3-speechd
 python3-sss
 python3-systemd
+python3-tk
 python3-tomli
 python3-typeguard
 python3-typer
 python3-typing-extensions
+python3-tz
 python3-update-manager
 python3-urllib3
 python3-userpath
@@ -2234,6 +2239,7 @@ python3-zipp
 python3.12-dev
 python3.12-gdbm
 python3.12-minimal
+python3.12-tk
 python3.12-venv
 python3.12
 python3
@@ -2292,6 +2298,7 @@ shared-mime-info
 shellcheck
 shfmt
 shim-signed
+signal-desktop
 simple-scan
 slirp4netns
 snapd
@@ -2343,6 +2350,7 @@ thermald
 thin-provisioning-tools
 time
 timeshift
+tk8.6-blt2.5
 tnftp
 tpm-udev
 trace-cmd
