@@ -1,7 +1,7 @@
 Name                       Version                           Rev    Tracking         Publisher            Notes
 audacious                  4.4.2                             212    latest/stable    sameersharma2006     -
 bare                       1.0                               5      latest/stable    canonical**          base
-bitwarden                  2025.1.2                          132    latest/stable    bitwarden**          -
+bitwarden                  2025.1.3                          133    latest/stable    bitwarden**          -
 blender                    4.3.2                             5673   latest/stable    blenderfoundation**  classic
 cheese                     44.1                              40     latest/stable    ken-vandine*         -
 copilot-desktop            0.1.1-6-g35c1baa115               16     latest/stable    ken-vandine*         -
