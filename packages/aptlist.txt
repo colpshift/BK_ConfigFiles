@@ -371,8 +371,6 @@ hicolor-icon-theme
 highlight-common
 highlight
 hostname
-hplip-data
-hplip
 htop
 humanity-icon-theme
 hunspell-en-au
@@ -860,7 +858,6 @@ libheif-plugin-aomenc
 libheif-plugin-libde265
 libheif1
 libhogweed6t64
-libhpmud0
 libhtml-form-perl
 libhtml-format-perl
 libhtml-html5-entities-perl
@@ -1240,7 +1237,6 @@ librygel-renderer-2.8-0
 librygel-server-2.8-0
 libsamplerate0
 libsane-common
-libsane-hpaio
 libsane1
 libsasl2-2
 libsasl2-modules-db
@@ -2108,11 +2104,9 @@ printer-driver-c2esp
 printer-driver-cups-pdf
 printer-driver-foo2zjs-common
 printer-driver-foo2zjs
-printer-driver-hpcups
 printer-driver-m2300w
 printer-driver-min12xxw
 printer-driver-pnm2ppa
-printer-driver-postscript-hp
 printer-driver-ptouch
 printer-driver-pxljr
 printer-driver-sag-gdi
@@ -2191,7 +2185,6 @@ python3-oauthlib
 python3-olefile
 python3-packaging
 python3-pexpect
-python3-pil.imagetk
 python3-pil
 python3-pip-whl
 python3-pip
