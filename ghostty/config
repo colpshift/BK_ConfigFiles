@@ -37,8 +37,8 @@ palette = 12=#7aa2f7
 palette = 13=#bb9af7
 palette = 14=#7dcfff
 palette = 15=#c0caf5
-font-family =  MesloLGS Nerd Font Propo Regular
-font-size = 10.5
+font-family =  UbuntuSansMono Nerd Font
+font-size = 12
 font-feature = enable
 mouse-hide-while-typing = true
 gtk-wide-tabs = false
