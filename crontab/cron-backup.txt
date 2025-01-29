@@ -13,5 +13,5 @@
 #
 #--------------------------------------------------
 #
-00 08 * * * /home/colps/.scripts/nvim_install_update.sh
+45 07 * * * /home/colps/.scripts/nvim_install_update.sh
 
