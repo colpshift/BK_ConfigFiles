@@ -627,6 +627,7 @@ libdav1d7
 libdaxctl1
 libdb5.3t64
 libdbus-1-3
+libdbus-glib-1-2
 libdbusmenu-glib4
 libdbusmenu-gtk3-4
 libdc1394-25
@@ -695,6 +696,7 @@ libespeak-ng1
 libestr0
 libevdev2
 libevdocument3-4t64
+libevent-2.1-7t64
 libevview3-3t64
 libexception-class-perl
 libexempi8
@@ -2278,6 +2280,7 @@ python3-distupgrade
 python3-ewmh
 python3-gdbm
 python3-gi
+python3-gpg
 python3-greenlet
 python3-h11
 python3-httpcore
@@ -2469,6 +2472,10 @@ time
 timeshift
 tk8.6-blt2.5
 tnftp
+tor-geoipdb
+tor
+torbrowser-launcher
+torsocks
 tpm-udev
 trace-cmd
 tracker-extract

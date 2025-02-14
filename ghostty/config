@@ -1,10 +1,15 @@
 # 
 # https://ghostty.zerebos.com/
 #
+# shell
 working-directory = /home/colps
 shell-integration = fish
 shell-integration-features = cursor,sudo,title
+cursor-style = bar
+cursor-style-blink = true
+cursor-invert-fg-bg = true
 mouse-hide-while-typing = true
+split-divider-color = #45818e
 # clipboard
 copy-on-select = true
 clipboard-read = allow
@@ -13,16 +18,12 @@ clipboard-trim-trailing-spaces = true
 # appearance
 theme = GitHub Dark
 background-opacity = 0.9
-split-divider-color = #45818e
 window-save-state = always
 window-theme = dark
 window-decoration = auto
 window-padding-balance = true
 window-step-resize = true
 custom-shader-animation = true
-cursor-style = bar
-cursor-style-blink = true
-cursor-invert-fg-bg = true
 gtk-wide-tabs = false
 gtk-adwaita = false
 gtk-titlebar = true
