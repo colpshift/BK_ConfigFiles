@@ -1,7 +1,7 @@
 Name                       Version                           Rev    Tracking         Publisher            Notes
 audacious                  4.4.2                             212    latest/stable    sameersharma2006     -
 bare                       1.0                               5      latest/stable    canonical**          base
-bitwarden                  2025.1.4                          134    latest/stable    bitwarden**          -
+bitwarden                  2025.2.0                          135    latest/stable    bitwarden**          -
 blender                    4.3.2                             5673   latest/stable    blenderfoundation**  classic
 cheese                     44.1                              40     latest/stable    ken-vandine*         -
 copilot-desktop            0.2.0-2-g1c46628f2c               22     latest/stable    ken-vandine*         -
@@ -13,7 +13,7 @@ core24                     20241119                          716    latest/stabl
 cups                       2.4.11-2                          1067   latest/stable    openprinting**       -
 desktop-security-center    0+git.a2963a9                     51     latest/stable    canonical**          -
 drawio                     26.0.9                            235    latest/stable    jgraph**             -
-firefox                    135.0-2                           5701   latest/stable    mozilla**            -
+firefox                    135.0-2                           5751   latest/stable    mozilla**            -
 firmware-updater           0+git.22198be                     167    latest/stable    canonical**          -
 gemini-desktop             0.2.0-2-gd38883420b               21     latest/stable    ken-vandine*         -
 gimp                       2.10.38                           484    latest/stable    snapcrafters*        -
@@ -27,9 +27,9 @@ icon-theme-papirus         20240201                          154    latest/stabl
 inkscape                   1.3.1-9b9bdc1480-2023-11-25-cust  10555  latest/stable    inkscape**           -
 mesa-2404                  24.0.9                            143    latest/stable    canonical**          -
 mpv                        0.38.0                            201    latest/stable    sameersharma2006     -
-notion-desktop             1.0.0                             1      latest/stable    xanmoy               -
+notion-desktop             1.1.2                             3      latest/stable    xanmoy               -
 onefetch                   2.23.1                            3678   latest/stable    o2sh                 -
-onlyoffice-desktopeditors  8.2.2                             215    latest/stable    onlyoffice**         -
+onlyoffice-desktopeditors  8.3.0                             332    latest/stable    onlyoffice**         -
 prompting-client           0+git.1756bbf                     87     latest/stable    canonical**          -
 qt515-core20               5.15.4                            43     latest/stable    keshavnrj*           -
 shortwave                  3.2.0                             89     latest/stable    alexmurray*          -
