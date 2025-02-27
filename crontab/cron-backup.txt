@@ -14,6 +14,6 @@
 #--------------------------------------------------
 #
 45 07 * * * /home/colps/.scripts/nvim_install_update.sh
-00 08 1 * * /home/colps/.scripts/clear_log_nvim.sh
-05 08 1 * * /home/colps/.scripts/clear_log_screenshot.sh
+00 08 * * Mon /home/colps/.scripts/clear_log_nvim.sh
+05 08 * * Mon /home/colps/.scripts/clear_log_screenshot.sh
 
