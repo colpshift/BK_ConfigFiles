@@ -1,13 +1,13 @@
-Discord	com.discordapp.Discord	0.0.87	stable	system
-Spotify	com.spotify.Client	1.2.52.442.g01893f92	stable	system
+Discord	com.discordapp.Discord	0.0.88	stable	system
+Spotify	com.spotify.Client	1.2.56.502.ga68d2d4f	stable	system
 Stremio	com.stremio.Stremio	4.4.168	stable	system
-Freedesktop Platform	org.freedesktop.Platform	freedesktop-sdk-24.08.12	24.08	system
+Freedesktop Platform	org.freedesktop.Platform	freedesktop-sdk-24.08.16	24.08	system
 Mesa	org.freedesktop.Platform.GL.default	24.3.4	24.08	system
 Mesa (Extra)	org.freedesktop.Platform.GL.default	24.3.4	24.08extra	system
 Intel VAAPI driver	org.freedesktop.Platform.VAAPI.Intel		24.08	system
-openh264	org.freedesktop.Platform.openh264	2.4.1	2.4.1	system
-Extensions	org.gnome.Extensions	47.2	stable	system
-GNOME Application Platform version 47	org.gnome.Platform		47	system
+openh264	org.freedesktop.Platform.openh264	2.5.1	2.5.1	system
+Extensions	org.gnome.Extensions	48.0	stable	system
+GNOME Application Platform version 48	org.gnome.Platform		48	system
 Yaru-dark Gtk Theme	org.gtk.Gtk3theme.Yaru-dark		3.22	system
 KDE Application Platform	org.kde.Platform		5.15-24.08	system
 QGnomePlatform	org.kde.PlatformTheme.QGnomePlatform		5.15-24.08	system
