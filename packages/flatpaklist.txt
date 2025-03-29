@@ -1,5 +1,4 @@
-Discord	com.discordapp.Discord	0.0.88	stable	system
-Spotify	com.spotify.Client	1.2.56.502.ga68d2d4f	stable	system
+Discord	com.discordapp.Discord	0.0.89	stable	system
 Stremio	com.stremio.Stremio	4.4.168	stable	system
 Freedesktop Platform	org.freedesktop.Platform	freedesktop-sdk-24.08.16	24.08	system
 Mesa	org.freedesktop.Platform.GL.default	24.3.4	24.08	system
