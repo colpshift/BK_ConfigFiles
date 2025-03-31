@@ -1017,6 +1017,7 @@ libldb2
 liblept5
 liblerc4
 liblilv-0-0
+liblinear4
 liblist-compare-perl
 liblist-someutils-perl
 liblist-someutils-xs-perl
@@ -1786,6 +1787,8 @@ network-manager-pptp
 network-manager
 networkd-dispatcher
 nftables
+nmap-common
+nmap
 node-abbrev
 node-acorn
 node-agent-base

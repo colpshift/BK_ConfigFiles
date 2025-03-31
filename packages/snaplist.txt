@@ -25,7 +25,7 @@ gnome-46-2404              0+git.7d0cf36                   77     latest/stable 
 gtk-common-themes          0.1-81-g442e511                 1535   latest/stable    canonical**          -
 gtk2-common-themes         0.1                             13     latest/stable    canonical**          -
 icon-theme-papirus         20250201                        160    latest/stable    sameersharma2006     -
-inkscape                   1.4.1-rc-d9e8dc1fe0-2025-03-10  10737  latest/stable    inkscape**           -
+inkscape                   1.4.1-rc-06eac75fbf-2025-03-29  10758  latest/stable    inkscape**           -
 mesa-2404                  24.2.8                          495    latest/stable    canonical**          -
 mpv                        0.38.0                          203    latest/stable    sameersharma2006     -
 notion-desktop             1.1.2                           3      latest/stable    xanmoy               -
