@@ -146,12 +146,13 @@ powerlevel10k_rainbow.omp.json # theme
 
 ### gnome extensions
 "Astra Monitor" by Astra
-"Bubblemail" by Razer
 "Caffeine" by Patapon
 "Lock Keys" by vaina
 "OpenWeather Refined" by Penquin
 "Transparent Top Bar" by fpix
+"Tiling Shell" by "https://github.com/domferr/tilingshell"
 #
+"Bubblemail" by Razer
 "BackSlide" by p91paul
 "CPU Power Manager" by martin31821
 "Sound Input & Output Device Chooser" by kgshank

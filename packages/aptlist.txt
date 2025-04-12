@@ -152,12 +152,11 @@ eject
 emacsen-common
 enchant-2
 eog
+epapirus-icon-theme
 eslint
 espeak-ng-data
 ethtool
 evdi
-evince-common
-evince
 evolution-data-server-common
 evolution-data-server
 fakeroot
@@ -372,6 +371,8 @@ hicolor-icon-theme
 highlight-common
 highlight
 hostname
+hplip-data
+hplip
 htop
 humanity-icon-theme
 hunspell-en-au
@@ -690,9 +691,7 @@ liberror-perl
 libespeak-ng1
 libestr0
 libevdev2
-libevdocument3-4t64
 libevent-2.1-7t64
-libevview3-3t64
 libexception-class-perl
 libexempi8
 libexif12
@@ -836,8 +835,6 @@ libgsl28
 libgslcblas0
 libgsm1
 libgsound0t64
-libgspell-1-2
-libgspell-1-common
 libgssapi-krb5-2
 libgssdp-1.6-0
 libgstreamer-gl1.0-0
@@ -884,6 +881,7 @@ libheif-plugin-aomenc
 libheif-plugin-libde265
 libheif1
 libhogweed6t64
+libhpmud0
 libhtml-form-perl
 libhtml-format-perl
 libhtml-html5-entities-perl
@@ -998,7 +996,6 @@ libkmlbase1t64
 libkmldom1t64
 libkmlengine1t64
 libkmod2
-libkpathsea6
 libkrb5-3
 libkrb5support0
 libksba8
@@ -1017,6 +1014,7 @@ libldb2
 liblept5
 liblerc4
 liblilv-0-0
+liblinear4
 liblist-compare-perl
 liblist-someutils-perl
 liblist-someutils-xs-perl
@@ -1339,6 +1337,7 @@ librygel-renderer-2.8-0
 librygel-server-2.8-0
 libsamplerate0
 libsane-common
+libsane-hpaio
 libsane1
 libsasl2-2
 libsasl2-modules-db
@@ -1432,7 +1431,6 @@ libsuperlu6
 libsvtav1enc2
 libswresample5
 libswscale8
-libsynctex2
 libsyntax-keyword-try-perl
 libsysmetrics1
 libsysprof-6-6
@@ -1786,6 +1784,8 @@ network-manager-pptp
 network-manager
 networkd-dispatcher
 nftables
+nmap-common
+nmap
 node-abbrev
 node-acorn
 node-agent-base
@@ -2178,6 +2178,7 @@ p11-kit-modules
 p11-kit
 packagekit-tools
 packagekit
+papirus-folders
 papirus-icon-theme
 parted
 pass
@@ -2223,9 +2224,11 @@ printer-driver-c2esp
 printer-driver-cups-pdf
 printer-driver-foo2zjs-common
 printer-driver-foo2zjs
+printer-driver-hpcups
 printer-driver-m2300w
 printer-driver-min12xxw
 printer-driver-pnm2ppa
+printer-driver-postscript-hp
 printer-driver-ptouch
 printer-driver-pxljr
 printer-driver-sag-gdi
