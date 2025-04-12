@@ -19,6 +19,8 @@ abbr --add gvim '/home/colp/.local/bin/nvim'
 abbr --add fd fdfind
 abbr --add cat 'bat --theme Nord'
 abbr --add bat 'bat --theme Nord'
+abbr --add ghce 'gh copilot explain'
+abbr --add ghcs 'gh copilot suggest'
 #abbr --add gitu 'git add . && git commit -S && git push && gh pr create -w'
 #abbr --add gitb 'git add . && git commit -S -m 'backup' && git push && gh pr create -w'
 abbr --add giti 'clear && onefetch --no-color-palette'
