@@ -2535,7 +2535,6 @@ vim
 w3m-img
 w3m
 wamerican
-warp-terminal
 warsaw
 wbrazilian
 wbritish
