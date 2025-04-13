@@ -10,7 +10,7 @@ core18                     20250123                        2855   latest/stable 
 core20                     20241206                        2496   latest/stable    canonical**          base
 core22                     20250315                        1908   latest/stable    canonical**          base
 core24                     20241217                        739    latest/stable    canonical**          base
-cups                       2.4.11-3                        1079   latest/stable    openprinting**       -
+cups                       2.4.12-1                        1085   latest/stable    openprinting**       -
 desktop-security-center    0+git.f7ad73a                   59     latest/stable    canonical**          -
 drawio                     26.2.2                          244    latest/stable    jgraph**             -
 ffmpeg-2404                7.1.1                           59     latest/stable    snapcrafters*        -
@@ -29,7 +29,7 @@ inkscape                   1.4.1-rc-06eac75fbf-2025-03-29  10758  latest/stable 
 mesa-2404                  24.2.8                          495    latest/stable    canonical**          -
 mpv                        0.38.0                          203    latest/stable    sameersharma2006     -
 notion-desktop             1.1.2                           3      latest/stable    xanmoy               -
-onefetch                   2.23.1                          3678   latest/stable    o2sh                 -
+onefetch                   2.24.0                          3749   latest/stable    o2sh                 -
 onlyoffice-desktopeditors  8.3.2                           407    latest/stable    onlyoffice**         -
 prompting-client           0+git.d542a5d                   104    latest/stable    canonical**          -
 qt515-core20               5.15.4                          43     latest/stable    keshavnrj*           -
@@ -38,7 +38,7 @@ snap-store                 0+git.90575829                  1270   2/stable/…  
 snapd                      2.67.1                          23771  latest/stable    canonical**          snapd
 snapd-desktop-integration  0.9                             253    latest/stable    canonical**          -
 spotify                    1.2.59.514.g834e17d4            86     latest/stable    spotify**            -
-teams-for-linux            2.0.7                           792    latest/stable    ismaelmartinez       -
+teams-for-linux            2.0.8                           793    latest/stable    ismaelmartinez       -
 todoist                    9.13.1                          1336   latest/stable    doist**              -
 vlc                        3.0.20-1-g2617de71b6            3777   latest/stable    videolan**           -
 xmind                      24.10.1101                      32     latest/stable    xmindltd             -
