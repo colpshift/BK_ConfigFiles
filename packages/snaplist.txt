@@ -17,7 +17,7 @@ ffmpeg-2404                7.1.1                           59     latest/stable 
 firefox                    137.0.1-1                       6019   latest/stable    mozilla**            -
 firmware-updater           0+git.22198be                   167    latest/stable    canonical**          -
 gemini-desktop             0.2.0-2-gd38883420b             21     latest/stable    ken-vandine*         -
-gimp                       3.0.2                           515    latest/stable    snapcrafters*        -
+gimp                       3.0.2                           517    latest/stable    snapcrafters*        -
 gnome-3-28-1804            3.28.0-19-g98f9e67.98f9e67      198    latest/stable    canonical**          -
 gnome-3-38-2004            0+git.efb213a                   143    latest/stable    canonical**          -
 gnome-42-2204              0+git.38ea591                   202    latest/stable/…  canonical**          -

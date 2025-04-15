@@ -50,6 +50,7 @@ bolt
 bpfcc-tools
 bpftrace
 bpytop
+bridge-utils
 brltty
 bsdextrautils
 bsdutils
@@ -1141,6 +1142,7 @@ libnpth0t64
 libnsl2
 libnspr4
 libnss-mdns
+libnss-mymachines
 libnss-sss
 libnss-systemd
 libnss3-tools
@@ -1476,6 +1478,7 @@ libtool-bin
 libtool
 libtotem-plparser-common
 libtotem-plparser18
+libtpms0
 libtraceevent1-plugin
 libtraceevent1
 libtracefs1
@@ -1532,6 +1535,15 @@ libvariable-magic-perl
 libvdpau1
 libvidstab1.1
 libvirglrenderer1
+libvirt-clients
+libvirt-daemon-config-network
+libvirt-daemon-config-nwfilter
+libvirt-daemon-driver-qemu
+libvirt-daemon-system-systemd
+libvirt-daemon-system
+libvirt-daemon
+libvirt-l10n
+libvirt0
 libvisual-0.4-0
 libvo-amrwbenc0
 libvolume-key1
@@ -1634,6 +1646,7 @@ libxml-sax-expat-perl
 libxml-sax-perl
 libxml-twig-perl
 libxml-xpathengine-perl
+libxml2-utils
 libxml2
 libxmlb2
 libxmu6
@@ -1656,6 +1669,7 @@ libxvmc1
 libxxf86dga1
 libxxf86vm1
 libxxhash0
+libyajl2
 libyaml-0-2
 libyaml-libyaml-perl
 libyelp0
@@ -1717,6 +1731,7 @@ man-db
 manpages-dev
 manpages
 mawk
+mdevctl
 mecab-ipadic-utf8
 mecab-ipadic
 mecab-utils
@@ -2440,12 +2455,15 @@ sssd
 strace
 sudo
 switcheroo-control
+swtpm-tools
+swtpm
 synaptic
 synaptics-repository-keyring
 sysprof
 sysstat
 system-config-printer-common
 system-config-printer-udev
+systemd-container
 systemd-cryptsetup
 systemd-hwe-hwdb
 systemd-oomd
