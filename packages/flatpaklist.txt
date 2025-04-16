@@ -1,4 +1,4 @@
-Discord	com.discordapp.Discord	0.0.90	stable	system
+Discord	com.discordapp.Discord	0.0.89	stable	system
 Stremio	com.stremio.Stremio	4.4.168	stable	system
 Freedesktop Platform	org.freedesktop.Platform	freedesktop-sdk-24.08.17	24.08	system
 Mesa	org.freedesktop.Platform.GL.default	25.0.3	24.08	system
