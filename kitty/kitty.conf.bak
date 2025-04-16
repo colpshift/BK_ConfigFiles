@@ -8,6 +8,7 @@ confirm_os_window_close 0
 mouse_map middle release ungrabbed paste_from_selection
 window_padding_width 2 1 1 2
 remember_window_size  yes
+font_size 11
 
 #
 # term
@@ -29,6 +30,11 @@ strip_trailing_spaces smart
 enabled_layouts vertical,horizontal,tall
 
 #
+# Keybinds
+#
+map ctrl+super+v launch --location=vsplit
+
+#
 # performance
 #
 repaint_delay 10
@@ -36,12 +42,12 @@ input_delay 3
 sync_to_monitor yes
 
 # BEGIN_KITTY_THEME
-# One Half Dark
+# One Dark
 include current-theme.conf
 # END_KITTY_THEME
 
 # BEGIN_KITTY_FONTS
-font_family      family="UbuntuSansMono Nerd Font"
+font_family      family="ZedMono Nerd Font Mono"
 bold_font        auto
 italic_font      auto
 bold_italic_font auto
