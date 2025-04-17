@@ -72,7 +72,7 @@ ii  caffeine                                         2.9.12-1                   
 ii  cloud-guest-utils                                0.33-1                                    all          cloud guest utilities
 ii  cloud-init                                       24.4.1-0ubuntu0~24.10.2                   all          initialization and customization tool for cloud instances
 ii  cmatrix                                          2.0-6                                     amd64        simulates the display from "The Matrix"
-ii  code                                             1.99.2-1744250061                         amd64        Code editing. Redefined.
+ii  code                                             1.99.3-1744761595                         amd64        Code editing. Redefined.
 ii  colord                                           1.4.7-1build2                             amd64        system service to manage device colour profiles -- system daemon
 ii  colord-data                                      1.4.7-1build2                             all          system service to manage device colour profiles -- data files
 ii  command-not-found                                23.04.0                                   all          Suggest installation of packages in interactive bash sessions
@@ -311,11 +311,11 @@ ii  gnome-session-canberra                           0.30-17ubuntu1             
 ii  gnome-session-common                             46.0-8ubuntu1                             all          GNOME Session Manager - common files
 ii  gnome-settings-daemon                            47.2-0ubuntu1                             amd64        daemon handling the GNOME session settings
 ii  gnome-settings-daemon-common                     47.2-0ubuntu1                             all          daemon handling the GNOME session settings - common files
-ii  gnome-shell                                      47.0-2ubuntu3.24.10.1                     amd64        graphical shell for the GNOME desktop
-ii  gnome-shell-common                               47.0-2ubuntu3.24.10.1                     all          common files for the GNOME graphical shell
+ii  gnome-shell                                      47.0-2ubuntu3.24.10.2                     amd64        graphical shell for the GNOME desktop
+ii  gnome-shell-common                               47.0-2ubuntu3.24.10.2                     all          common files for the GNOME graphical shell
 ii  gnome-shell-extension-appindicator               59-2                                      all          AppIndicator, KStatusNotifierItem and tray support for GNOME Shell
 ii  gnome-shell-extension-desktop-icons-ng           47.0.11-3                                 all          desktop icon support for GNOME Shell
-ii  gnome-shell-extension-prefs                      47.0-2ubuntu3.24.10.1                     amd64        tool to enable / disable GNOME Shell extensions
+ii  gnome-shell-extension-prefs                      47.0-2ubuntu3.24.10.2                     amd64        tool to enable / disable GNOME Shell extensions
 ii  gnome-shell-extension-ubuntu-dock                99ubuntu1                                 all          Ubuntu Dock for GNOME Shell
 ii  gnome-shell-extension-ubuntu-tiling-assistant    48-1ubuntu1                               all          extension which adds a Windows-like snap assist to GNOME Shell
 ii  gnome-software                                   47.0-1                                    amd64        Software Center for GNOME
@@ -1716,43 +1716,46 @@ ii  libzvbi0t64:amd64                                0.2.42-2ubuntu0.24.10.2    
 ii  lintian                                          2.118.0ubuntu1.1                          all          Debian package checker
 ii  linux-base                                       4.5ubuntu9.1                              all          Linux image base package
 ii  linux-firmware                                   20240913.gita34e7a5f-0ubuntu2.6           amd64        Firmware for Linux kernel drivers
-ii  linux-generic-hwe-24.04                          6.11.0-21.21                              amd64        Complete Generic Linux kernel and headers
-ii  linux-headers-6.11.0-19                          6.11.0-19.19                              all          Header files related to Linux kernel version 6.11.0
-ii  linux-headers-6.11.0-19-generic                  6.11.0-19.19                              amd64        Linux kernel headers for version 6.11.0 on 64 bit x86 SMP
+ii  linux-generic-hwe-24.04                          6.11.0-24.24+1                            amd64        Complete Generic Linux kernel and headers
 ii  linux-headers-6.11.0-21                          6.11.0-21.21                              all          Header files related to Linux kernel version 6.11.0
 ii  linux-headers-6.11.0-21-generic                  6.11.0-21.21                              amd64        Linux kernel headers for version 6.11.0 on 64 bit x86 SMP
-ii  linux-headers-generic-hwe-24.04                  6.11.0-21.21                              amd64        Generic Linux kernel headers
+ii  linux-headers-6.11.0-24                          6.11.0-24.24                              all          Header files related to Linux kernel version 6.11.0
+ii  linux-headers-6.11.0-24-generic                  6.11.0-24.24                              amd64        Linux kernel headers for version 6.11.0 on 64 bit x86 SMP
+ii  linux-headers-generic-hwe-24.04                  6.11.0-24.24+1                            amd64        Generic Linux kernel headers
 rc  linux-image-6.11.0-12-generic                    6.11.0-12.13                              amd64        Signed kernel image generic
 rc  linux-image-6.11.0-13-generic                    6.11.0-13.14                              amd64        Signed kernel image generic
 rc  linux-image-6.11.0-14-generic                    6.11.0-14.15                              amd64        Signed kernel image generic
 rc  linux-image-6.11.0-18-generic                    6.11.0-18.18                              amd64        Signed kernel image generic
-ii  linux-image-6.11.0-19-generic                    6.11.0-19.19                              amd64        Signed kernel image generic
+rc  linux-image-6.11.0-19-generic                    6.11.0-19.19                              amd64        Signed kernel image generic
 ii  linux-image-6.11.0-21-generic                    6.11.0-21.21                              amd64        Signed kernel image generic
+ii  linux-image-6.11.0-24-generic                    6.11.0-24.24                              amd64        Signed kernel image generic
 rc  linux-image-6.11.0-9-generic                     6.11.0-9.9                                amd64        Signed kernel image generic
-ii  linux-image-generic-hwe-24.04                    6.11.0-21.21                              amd64        Generic Linux kernel image
-ii  linux-libc-dev:amd64                             6.11.0-21.21                              amd64        Linux Kernel Headers for development
+ii  linux-image-generic-hwe-24.04                    6.11.0-24.24+1                            amd64        Generic Linux kernel image
+ii  linux-libc-dev:amd64                             6.11.0-24.24                              amd64        Linux Kernel Headers for development
 rc  linux-modules-6.11.0-12-generic                  6.11.0-12.13                              amd64        Linux kernel extra modules for version 6.11.0 on 64 bit x86 SMP
 rc  linux-modules-6.11.0-13-generic                  6.11.0-13.14                              amd64        Linux kernel extra modules for version 6.11.0 on 64 bit x86 SMP
 rc  linux-modules-6.11.0-14-generic                  6.11.0-14.15                              amd64        Linux kernel extra modules for version 6.11.0 on 64 bit x86 SMP
 rc  linux-modules-6.11.0-18-generic                  6.11.0-18.18                              amd64        Linux kernel extra modules for version 6.11.0 on 64 bit x86 SMP
-ii  linux-modules-6.11.0-19-generic                  6.11.0-19.19                              amd64        Linux kernel extra modules for version 6.11.0 on 64 bit x86 SMP
+rc  linux-modules-6.11.0-19-generic                  6.11.0-19.19                              amd64        Linux kernel extra modules for version 6.11.0 on 64 bit x86 SMP
 ii  linux-modules-6.11.0-21-generic                  6.11.0-21.21                              amd64        Linux kernel extra modules for version 6.11.0 on 64 bit x86 SMP
+ii  linux-modules-6.11.0-24-generic                  6.11.0-24.24                              amd64        Linux kernel extra modules for version 6.11.0 on 64 bit x86 SMP
 rc  linux-modules-6.11.0-8-generic                   6.11.0-8.8                                amd64        Linux kernel extra modules for version 6.11.0 on 64 bit x86 SMP
 rc  linux-modules-6.11.0-9-generic                   6.11.0-9.9                                amd64        Linux kernel extra modules for version 6.11.0 on 64 bit x86 SMP
 rc  linux-modules-extra-6.11.0-12-generic            6.11.0-12.13                              amd64        Linux kernel extra modules for version 6.11.0 on 64 bit x86 SMP
 rc  linux-modules-extra-6.11.0-13-generic            6.11.0-13.14                              amd64        Linux kernel extra modules for version 6.11.0 on 64 bit x86 SMP
 rc  linux-modules-extra-6.11.0-14-generic            6.11.0-14.15                              amd64        Linux kernel extra modules for version 6.11.0 on 64 bit x86 SMP
 rc  linux-modules-extra-6.11.0-18-generic            6.11.0-18.18                              amd64        Linux kernel extra modules for version 6.11.0 on 64 bit x86 SMP
-ii  linux-modules-extra-6.11.0-19-generic            6.11.0-19.19                              amd64        Linux kernel extra modules for version 6.11.0 on 64 bit x86 SMP
+rc  linux-modules-extra-6.11.0-19-generic            6.11.0-19.19                              amd64        Linux kernel extra modules for version 6.11.0 on 64 bit x86 SMP
 ii  linux-modules-extra-6.11.0-21-generic            6.11.0-21.21                              amd64        Linux kernel extra modules for version 6.11.0 on 64 bit x86 SMP
+ii  linux-modules-extra-6.11.0-24-generic            6.11.0-24.24                              amd64        Linux kernel extra modules for version 6.11.0 on 64 bit x86 SMP
 rc  linux-modules-extra-6.11.0-8-generic             6.11.0-8.8                                amd64        Linux kernel extra modules for version 6.11.0 on 64 bit x86 SMP
 rc  linux-modules-extra-6.11.0-9-generic             6.11.0-9.9                                amd64        Linux kernel extra modules for version 6.11.0 on 64 bit x86 SMP
 ii  linux-sound-base                                 1.0.25+dfsg-0ubuntu7                      all          base package for ALSA and OSS sound systems
-ii  linux-tools-6.11.0-19                            6.11.0-19.19                              amd64        Linux kernel version specific tools for version 6.11.0-19
-ii  linux-tools-6.11.0-19-generic                    6.11.0-19.19                              amd64        Linux kernel version specific tools for version 6.11.0-19
 ii  linux-tools-6.11.0-21                            6.11.0-21.21                              amd64        Linux kernel version specific tools for version 6.11.0-21
 ii  linux-tools-6.11.0-21-generic                    6.11.0-21.21                              amd64        Linux kernel version specific tools for version 6.11.0-21
-ii  linux-tools-common                               6.11.0-21.21                              all          Linux kernel version specific tools for version 6.11.0
+ii  linux-tools-6.11.0-24                            6.11.0-24.24                              amd64        Linux kernel version specific tools for version 6.11.0-24
+ii  linux-tools-6.11.0-24-generic                    6.11.0-24.24                              amd64        Linux kernel version specific tools for version 6.11.0-24
+ii  linux-tools-common                               6.11.0-24.24                              all          Linux kernel version specific tools for version 6.11.0
 ii  lm-sensors                                       1:3.6.0-10                                amd64        utilities to read temperature/voltage/fan sensors
 ii  locales                                          2.40-1ubuntu3.1                           all          GNU C Library: National Language (locale) data [support]
 ii  login                                            1:4.15.3-3ubuntu2                         amd64        system login tools
@@ -2340,7 +2343,7 @@ ii  python3-defusedxml                               0.7.1-2                    
 ii  python3-dev                                      3.12.6-0ubuntu1                           amd64        header files and a static library for Python (default)
 ii  python3-distro                                   1.9.0-1                                   all          Linux OS platform information API
 ii  python3-distro-info                              1.9                                       all          information about distributions' releases (Python 3 module)
-ii  python3-distupgrade                              1:24.10.13                                all          manage release upgrades
+ii  python3-distupgrade                              1:24.10.14                                all          manage release upgrades
 ii  python3-ewmh                                     0.1.6-3                                   all          Python interface to EWMH-compliant window managers (Python 3)
 ii  python3-gdbm:amd64                               3.12.6-1ubuntu1                           amd64        GNU dbm database support for Python 3.x
 ii  python3-gi                                       3.48.2-1                                  amd64        Python 3 bindings for gobject-introspection libraries
@@ -2562,8 +2565,8 @@ ii  ubuntu-minimal                                   1.543                      
 ii  ubuntu-mono                                      24.04-0ubuntu1                            all          Ubuntu Mono Icon theme
 ii  ubuntu-pro-client                                34.1.2                                    amd64        Management tools for Ubuntu Pro
 ii  ubuntu-pro-client-l10n                           34.1.2                                    amd64        Translations for Ubuntu Pro Client
-ii  ubuntu-release-upgrader-core                     1:24.10.13                                all          manage release upgrades
-ii  ubuntu-release-upgrader-gtk                      1:24.10.13                                all          manage release upgrades
+ii  ubuntu-release-upgrader-core                     1:24.10.14                                all          manage release upgrades
+ii  ubuntu-release-upgrader-gtk                      1:24.10.14                                all          manage release upgrades
 ii  ubuntu-report                                    1.7.3ubuntu0.24.10.1                      amd64        Report hardware and other collected metrics
 ii  ubuntu-restricted-addons                         29                                        amd64        Commonly used restricted packages for Ubuntu
 ii  ubuntu-restricted-extras                         67                                        amd64        Commonly used media codecs and fonts for Ubuntu
