@@ -6,7 +6,7 @@ Mesa (Extra)	org.freedesktop.Platform.GL.default	25.0.3	24.08extra	system
 Intel VAAPI driver	org.freedesktop.Platform.VAAPI.Intel		24.08	system
 openh264	org.freedesktop.Platform.openh264	2.5.1	2.5.1	system
 Extensions	org.gnome.Extensions	48.1	stable	system
-Papers	org.gnome.Papers	48.0	stable	system
+Papers	org.gnome.Papers	48.1	stable	system
 GNOME Application Platform version 48	org.gnome.Platform		48	system
 Yaru Gtk Theme	org.gtk.Gtk3theme.Yaru		3.22	system
 Yaru-dark Gtk Theme	org.gtk.Gtk3theme.Yaru-dark		3.22	system
