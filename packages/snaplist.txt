@@ -9,7 +9,7 @@ core                       16-2.61.4-20240607              17200  latest/stable 
 core18                     20250123                        2855   latest/stable    canonical**          base
 core20                     20250213                        2501   latest/stable    canonical**          base
 core22                     20250315                        1908   latest/stable    canonical**          base
-core24                     20241217                        739    latest/stable    canonical**          base
+core24                     20250318                        888    latest/stable    canonical**          base
 cups                       2.4.12-1                        1085   latest/stable    openprinting**       -
 desktop-security-center    0+git.f7ad73a                   59     latest/stable    canonical**          -
 drawio                     26.2.2                          244    latest/stable    jgraph**             -
