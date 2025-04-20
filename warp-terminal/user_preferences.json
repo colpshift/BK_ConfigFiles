@@ -32,7 +32,7 @@
     "NotebookFontSize": "14.0",
     "TelemetryBannerDismissed": "true",
     "FontName": "\"UbuntuSansMono Nerd Font\"",
-    "AIRequestLimitInfo": "{\"limit\":150,\"num_requests_used_since_refresh\":25,\"next_refresh_time\":\"2025-04-24T04:02:39.031855Z\",\"is_unlimited\":false,\"request_limit_refresh_duration\":\"Monthly\",\"accepted_autosuggestions_limit\":999999,\"is_unlimited_autosuggestions\":true,\"accepted_autosuggestions_since_last_refresh\":4,\"is_unlimited_voice\":false,\"voice_request_limit\":10000,\"voice_token_limit\":30000,\"voice_requests_used_since_last_refresh\":0,\"voice_tokens_used_since_last_refresh\":0}",
+    "AIRequestLimitInfo": "{\"limit\":150,\"num_requests_used_since_refresh\":25,\"next_refresh_time\":\"2025-04-24T04:02:39.031855Z\",\"is_unlimited\":false,\"request_limit_refresh_duration\":\"Monthly\",\"accepted_autosuggestions_limit\":999999,\"is_unlimited_autosuggestions\":true,\"accepted_autosuggestions_since_last_refresh\":5,\"is_unlimited_voice\":false,\"voice_request_limit\":10000,\"voice_token_limit\":30000,\"voice_requests_used_since_last_refresh\":0,\"voice_tokens_used_since_last_refresh\":0}",
     "ReceivedReferralTheme": "\"Inactive\"",
     "CrashReportingEnabled": "false",
     "ExperimentId": "909dd60e-666e-4bd1-a6a4-3ec9c2faf526",
