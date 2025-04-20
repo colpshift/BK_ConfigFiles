@@ -27,9 +27,9 @@ abbr --add ghpr '$HOME/.scripts/github_pr_create.sh'
 #abbr --add gitb 'git add . && git commit -S -m 'backup' && git push && gh pr create -w'
 abbr --add giti 'clear && onefetch --no-color-palette'
 abbr --add apt 'sudo apt'
-abbr --add aptu 'sudo apt update && sudo apt full-upgrade && sudo apt autoremove'
-abbr --add nala 'sudo nala'
-abbr --add nalau 'sudo nala update && sudo nala full-upgrade && sudo nala autoremove && sudo nala autopurge'
+abbr --add aptu 'sudo apt update && sudo apt full-upgrade && sudo apt autoremove && sudo apt purge'
+# abbr --add nala 'sudo nala'
+# abbr --add nalau 'sudo nala update && sudo nala full-upgrade && sudo nala autoremove && sudo nala autopurge'
 abbr --add cls clear
 abbr --add vi nvim
 abbr --add vim nvim
