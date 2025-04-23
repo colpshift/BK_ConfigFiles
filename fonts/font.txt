@@ -1,0 +1,11 @@
+drwxrwxr-x - colps 17 dez  2024 23 abr 14:32  awesome
+drwxrwxr-x - colps 15 abr 23:03 23 abr 14:32  Awesome
+drwxrwxr-x - colps 15 abr 23:02 23 abr 14:32  FiraCode
+drwxrwxr-x - colps  5 jan 20:59 23 abr 14:32  iosevka
+drwxrwxr-x - colps 31 jan 14:09 23 abr 14:32  jetbrains
+drwxrwxr-x - colps 15 abr 23:02 23 abr 14:32  JetBrainsMono
+drwxrwxr-x - colps 17 dez  2024 23 abr 14:32  meslo
+drwxrwxr-x - colps 17 dez  2024 23 abr 14:32  ubuntu
+drwxrwxr-x - colps 17 dez  2024 23 abr 14:32  ubuntuMono
+drwxrwxr-x - colps 17 dez  2024 23 abr 14:32  ubuntuSans
+drwxrwxr-x - colps  5 jan 20:46 23 abr 14:32  zedMono
