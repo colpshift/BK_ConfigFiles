@@ -1,5 +1,6 @@
 Discord	com.discordapp.Discord	0.0.92	stable	system
 Stremio	com.stremio.Stremio	4.4.168	stable	system
+Fedora Media Writer	org.fedoraproject.MediaWriter	5.2.4	stable	system
 Freedesktop Platform	org.freedesktop.Platform	freedesktop-sdk-24.08.18	24.08	system
 Mesa	org.freedesktop.Platform.GL.default	25.0.3	24.08	system
 Mesa (Extra)	org.freedesktop.Platform.GL.default	25.0.3	24.08extra	system
@@ -11,5 +12,6 @@ GNOME Application Platform version 48	org.gnome.Platform		48	system
 Yaru Gtk Theme	org.gtk.Gtk3theme.Yaru		3.22	system
 Yaru-dark Gtk Theme	org.gtk.Gtk3theme.Yaru-dark		3.22	system
 KDE Application Platform	org.kde.Platform		5.15-24.08	system
+KDE Application Platform	org.kde.Platform		6.8	system
 QGnomePlatform	org.kde.PlatformTheme.QGnomePlatform		5.15-24.08	system
 QAdwaitaDecorations	org.kde.WaylandDecoration.QAdwaitaDecorations		5.15-24.08	system
