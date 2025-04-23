@@ -231,7 +231,7 @@ ii  geoclue-2.0                                      2.7.2-2ubuntu1             
 ii  geocode-glib-common                              3.26.3-6build3                             all          icons for the geocode-glib library
 ii  gettext                                          0.23.1-1                                   amd64        GNU Internationalization utilities
 ii  gettext-base                                     0.23.1-1                                   amd64        GNU Internationalization utilities for the base system
-ii  gh                                               2.70.0                                     amd64        GitHub’s official command line tool.
+ii  gh                                               2.71.0                                     amd64        GitHub’s official command line tool.
 ii  ghostscript                                      10.05.0dfsg1-0ubuntu1                      amd64        interpreter for the PostScript language and for PDF
 ii  gir1.2-accountsservice-1.0:amd64                 23.13.9-7ubuntu1                           amd64        GObject introspection data for AccountService
 ii  gir1.2-adw-1:amd64                               1.7.0-1ubuntu1                             amd64        GObject introspection files for libadwaita
@@ -338,7 +338,7 @@ ii  gnome-user-docs-pt                               47.5-1ubuntu1              
 ii  gnupg                                            2.4.4-2ubuntu23                            all          GNU privacy guard - a free PGP replacement
 ii  gnupg-l10n                                       2.4.4-2ubuntu23                            all          GNU privacy guard - localization files
 ii  gnupg-utils                                      2.4.4-2ubuntu23                            amd64        GNU privacy guard - utility programs
-ii  google-chrome-stable                             135.0.7049.95-1                            amd64        The web browser from Google
+ii  google-chrome-stable                             135.0.7049.114-1                           amd64        The web browser from Google
 ii  gpg                                              2.4.4-2ubuntu23                            amd64        GNU Privacy Guard -- minimalist public key operations
 ii  gpg-agent                                        2.4.4-2ubuntu23                            amd64        GNU privacy guard - cryptographic agent
 ii  gpg-wks-client                                   2.4.4-2ubuntu23                            amd64        GNU privacy guard - Web Key Service client
@@ -491,7 +491,7 @@ ii  libappstream5:amd64                              1.0.4-1                    
 ii  libapt-pkg-perl                                  0.1.41build1                               amd64        Perl interface to libapt-pkg
 ii  libapt-pkg7.0:amd64                              3.0.0                                      amd64        package management runtime library
 ii  libarchive-zip-perl                              1.68-1                                     all          Perl module for manipulation of ZIP archives
-ii  libarchive13t64:amd64                            3.7.7-0ubuntu2                             amd64        Multi-format archive and compression library (shared library)
+ii  libarchive13t64:amd64                            3.7.7-0ubuntu2.1                           amd64        Multi-format archive and compression library (shared library)
 ii  libaribb24-0t64:amd64                            1.0.3-2.1build2                            amd64        library for ARIB STD-B24 decoding (runtime files)
 ii  libarmadillo14                                   1:14.2.3+dfsg-1                            amd64        streamlined C++ linear algebra library
 ii  libarpack2t64:amd64                              3.9.1-4                                    amd64        Fortran77 subroutines to solve large scale eigenvalue problems
@@ -1274,7 +1274,7 @@ ii  libpcre2-posix3:amd64                            10.45-1                    
 ii  libpcsclite1:amd64                               2.3.1-1                                    amd64        Middleware to access a smart card using PC/SC (library)
 ii  libpeas-1.0-0:amd64                              1.36.0-3build5                             amd64        Application plugin library
 ii  libpeas-common                                   1.36.0-3build5                             all          Application plugin library (common files)
-ii  libperl5.40:amd64                                5.40.1-2                                   amd64        shared Perl library
+ii  libperl5.40:amd64                                5.40.1-2ubuntu0.1                          amd64        shared Perl library
 ii  libperlio-gzip-perl                              0.20-1build5                               amd64        module providing a PerlIO layer to gzip/gunzip
 ii  libperlio-utf8-strict-perl                       0.010-1build4                              amd64        fast and correct UTF-8 Perl IO module
 ii  libpgm-5.3-0t64:amd64                            5.3.128~dfsg-2.1build1                     amd64        OpenPGM shared library
@@ -1763,7 +1763,7 @@ ii  libxxf86vm1:amd64                                1:1.1.4-1build4            
 ii  libxxhash0:amd64                                 0.8.3-2                                    amd64        shared library for xxhash
 ii  libyaml-0-2:amd64                                0.2.5-2                                    amd64        Fast YAML 1.1 parser and emitter library
 ii  libyaml-libyaml-perl                             0.903.0+ds-1                               amd64        Perl interface to libyaml, a YAML implementation
-ii  libyelp0:amd64                                   42.2-2                                     amd64        Library for the GNOME help browser
+ii  libyelp0:amd64                                   42.2-2ubuntu0.1                            amd64        Library for the GNOME help browser
 ii  libyuv0:amd64                                    0.0.1904.20250204-1                        amd64        Library for YUV scaling (shared library)
 ii  libyyjson0:amd64                                 0.10.0+ds-1                                amd64        high performance JSON library written in ANSI C
 ii  libzimg2:amd64                                   3.0.5+ds1-1build1                          amd64        scaling, colorspace, depth conversion library (shared library)
@@ -2326,9 +2326,9 @@ ii  patchutils                                       0.4.2-1build3              
 ii  pci.ids                                          0.0~2025.03.09-1                           all          PCI ID Repository
 ii  pciutils                                         1:3.13.0-2                                 amd64        PCI utilities
 ii  pcmciautils                                      018-18                                     amd64        PCMCIA utilities for Linux 2.6
-ii  perl                                             5.40.1-2                                   amd64        Larry Wall's Practical Extraction and Report Language
-ii  perl-base                                        5.40.1-2                                   amd64        minimal Perl system
-ii  perl-modules-5.40                                5.40.1-2                                   all          Core Perl modules
+ii  perl                                             5.40.1-2ubuntu0.1                          amd64        Larry Wall's Practical Extraction and Report Language
+ii  perl-base                                        5.40.1-2ubuntu0.1                          amd64        minimal Perl system
+ii  perl-modules-5.40                                5.40.1-2ubuntu0.1                          all          Core Perl modules
 ii  perl-openssl-defaults:amd64                      7build3                                    amd64        version compatibility baseline for Perl OpenSSL packages
 ii  pigz                                             2.8-1                                      amd64        Parallel Implementation of GZip
 ii  pinentry-curses                                  1.3.1-2ubuntu3                             amd64        curses-based PIN or pass-phrase entry dialog for GnuPG
@@ -2763,8 +2763,8 @@ ii  yaru-theme-gnome-shell                           25.04.1-0ubuntu1           
 ii  yaru-theme-gtk                                   25.04.1-0ubuntu1                           all          Yaru GTK theme from the Ubuntu Community
 ii  yaru-theme-icon                                  25.04.1-0ubuntu1                           all          Yaru icon theme from the Ubuntu Community
 ii  yaru-theme-sound                                 25.04.1-0ubuntu1                           all          Yaru sound theme from the Ubuntu Community
-ii  yelp                                             42.2-2                                     amd64        Help browser for GNOME
-ii  yelp-xsl                                         42.1-3                                     all          XSL stylesheets for the yelp help browser
+ii  yelp                                             42.2-2ubuntu0.1                            amd64        Help browser for GNOME
+ii  yelp-xsl                                         42.1-3ubuntu0.1                            all          XSL stylesheets for the yelp help browser
 ii  zenity                                           4.1.90-1                                   amd64        Display graphical dialog boxes from shell scripts
 ii  zenity-common                                    4.1.90-1                                   all          Display graphical dialog boxes from shell scripts (common files)
 ii  zip                                              3.0-14ubuntu2                              amd64        Archiver for .zip files
