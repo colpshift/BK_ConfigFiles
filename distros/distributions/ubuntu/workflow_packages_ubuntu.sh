@@ -16,25 +16,25 @@ Copilot Dekstop
 Gemini Desktop
 
 ### Pin
-calendar
-thunderbird
 notion
+notion-calendar
+notion-mail
+todoist
 pomodoro
 whatsapp web
 discord
+signal
 
 ### office
-libreoffice
-evince
-qpdfview
+onlyoffice
 xmind
 document scanner
 
 ### internet
-brave
 firefox
 chrome
 edge
+torbrowse
 zoom
 
 ### Audio
@@ -48,9 +48,6 @@ Cheese
 MPV
 Blender
 Stremio
-Youtube
-Disney
-Netflix
 
 ### Image
 flameshot
@@ -86,19 +83,16 @@ ufw/gufw
 ### utilities
 deja dup / timeshift
 fastfetch
-tweaks
-gdebi
-nala
 netselect # https://packages.debian.org/stable/net/netselect
 stacer
 synaptics
+neohtop
 htop
 btop
 preload
-tlp / tlp-rdw
-imwheel # configure mouse button
 
 ### terminal
+warp
 kitty
 duf # https://github.com/muesli/duf/releases/download/v0.6.0/duf_0.6.0_linux_amd64.deb
 fasd
@@ -143,6 +137,10 @@ spacefish prompt # https://github.com/matchai/spacefish
 # https://ohmyposh.dev/docs/installation/linux
 oh my posh
 powerlevel10k_rainbow.omp.json # theme
+
+### gnome
+extension manager
+gnome tweaks
 
 ### gnome extensions
 "Astra Monitor" by Astra

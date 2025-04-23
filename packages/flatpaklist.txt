@@ -1,6 +1,6 @@
-Discord	com.discordapp.Discord	0.0.91	stable	system
+Discord	com.discordapp.Discord	0.0.92	stable	system
 Stremio	com.stremio.Stremio	4.4.168	stable	system
-Freedesktop Platform	org.freedesktop.Platform	freedesktop-sdk-24.08.17	24.08	system
+Freedesktop Platform	org.freedesktop.Platform	freedesktop-sdk-24.08.18	24.08	system
 Mesa	org.freedesktop.Platform.GL.default	25.0.3	24.08	system
 Mesa (Extra)	org.freedesktop.Platform.GL.default	25.0.3	24.08extra	system
 Intel VAAPI driver	org.freedesktop.Platform.VAAPI.Intel		24.08	system
