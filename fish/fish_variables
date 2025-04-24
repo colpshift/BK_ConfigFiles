@@ -13,7 +13,8 @@ SETUVAR GEMINI_API_KEY:AIzaSyCbmBI9HFTfSclc5tGW5RPynT8BMrN70aA
 SETUVAR --export NVM_DIR:/home/colps/\x2envm
 SETUVAR PAGER:less
 SETUVAR --export --path PATH:/home/colps/\x2ecargo/bin\x1e/home/colps/\x2escripts\x1e/home/colps/\x2efzf/bin\x1e/home/colps/\x2elocal/bin\x1e/usr/local/sbin\x1e/usr/local/bin\x1e/usr/sbin\x1e/usr/bin\x1e/sbin\x1e/bin\x1e/usr/games\x1e/usr/local/games\x1e/snap/bin\x1e/snap/bin\x1e/opt/nvim\x2dlinux64/bin
-SETUVAR TERMINAL:warp\x2dterminal
+SETUVAR STARSHIP_CONFIG:home\x0flps\x2econfigstarshipstarship\x2etoml
+SETUVAR TERMINAL:kitty
 SETUVAR VIRTUAL_ENV_DISABLE_PROMPT:true
 SETUVAR VISUAL:nvim
 SETUVAR ZO_CMD:zo
@@ -74,4 +75,4 @@ SETUVAR fish_pager_color_selected_background:\x2d\x2dbackground\x3dbrblack
 SETUVAR fish_pager_color_selected_completion:\x1d
 SETUVAR fish_pager_color_selected_description:\x1d
 SETUVAR fish_pager_color_selected_prefix:\x1d
-SETUVAR fish_user_paths:/home/colps/\x2ecargo/bin\x1e/home/colps/\x2escripts\x1e/home/colps/\x2efzf/bin\x1e/home/colps/\x2elocal/bin
+SETUVAR fish_user_paths:/home/colps/\x2ecargo/bin\x1e/home/colps/\x2escripts\x1e/home/colps/\x2efzf/bin\x1e/home/colps/\x2elocal/bin\x1e/home/colps/go/bin

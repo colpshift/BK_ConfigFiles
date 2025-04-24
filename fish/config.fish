@@ -35,8 +35,8 @@ abbr --add vi nvim
 abbr --add vim nvim
 abbr --add myip 'curl http://ipecho.net/plain; echo'
 abbr --add ports 'sudo ss -tulanp'
-abbr --add ubui 'clear && fastfetch'
-abbr --add cmatrix '$HOME/.scripts/cmatrix_run.sh'
+abbr --add fedi 'clear && fastfetch'
+abbr --add cmatrix 'cmatrix s -r'
 abbr --add systemctl_error 'sudo systemctl --failed'
 abbr --add journal_error 'sudo journalctl -p 3 -xb'
 abbr --add poshthemes 'bash -c "$(wget -qO- https://git.io/vQgMr)"'
