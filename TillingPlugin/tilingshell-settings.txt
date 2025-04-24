@@ -1,0 +1,13 @@
+[/]
+enable-autotiling=true
+enable-blur-selected-tilepreview=true
+enable-blur-snap-assistant=true
+enable-screen-edges-windows-suggestions=true
+enable-snap-assistant-windows-suggestions=true
+enable-tiling-system-windows-suggestions=true
+enable-window-border=true
+inner-gaps=uint32 8
+quarter-tiling-threshold=uint32 40
+selected-layouts=[['3946552'], ['3946552'], ['3946552'], ['3946552'], ['3946552']]
+snap-assistant-animation-time=uint32 179
+window-border-color='rgb(38,162,105)'
