@@ -1,7 +1,7 @@
 Bitwarden	com.bitwarden.desktop	2025.3.0	stable	system
 Discord	com.discordapp.Discord	0.0.92	stable	system
 draw.io	com.jgraph.drawio.desktop	26.0.16	stable	system
-Microsoft Edge	com.microsoft.Edge	135.0.3179.85-1	stable	system
+Microsoft Edge	com.microsoft.Edge	135.0.3179.98-1	stable	system
 Spotify	com.spotify.Client	1.2.59.514.g834e17d4	stable	system
 Stremio	com.stremio.Stremio	4.4.168	stable	system
 Todoist	com.todoist.Todoist	9.13.1	stable	system
@@ -25,12 +25,9 @@ openh264	org.freedesktop.Platform.openh264	2.4.1	2.4.1	system
 openh264	org.freedesktop.Platform.openh264	2.5.1	2.5.1	system
 GNU Image Manipulation Program	org.gimp.GIMP	3.0.2	stable	system
 HEIC	org.gimp.GIMP.HEIC		stable	system
-Cheese	org.gnome.Cheese	44.1	stable	system
 Déjà Dup Backups	org.gnome.DejaDup	48.1	stable	system
 Extensions	org.gnome.Extensions	48.1	stable	system
-GNOME Application Platform version 46	org.gnome.Platform		46	system
 GNOME Application Platform version 48	org.gnome.Platform		48	system
-Eye of GNOME	org.gnome.eog	45.4	stable	system
 Inkscape	org.inkscape.Inkscape	1.4	stable	system
 Adwaita theme	org.kde.KStyle.Adwaita		5.15-24.08	system
 Adwaita theme	org.kde.KStyle.Adwaita		6.8	system
