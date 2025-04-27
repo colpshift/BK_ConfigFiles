@@ -21,7 +21,6 @@ Intel VAAPI driver	org.freedesktop.Platform.VAAPI.Intel		23.08	system
 Intel VAAPI driver	org.freedesktop.Platform.VAAPI.Intel		24.08	system
 FFmpeg extension with extra codecs	org.freedesktop.Platform.ffmpeg-full		23.08	system
 FFmpeg extension with extra codecs	org.freedesktop.Platform.ffmpeg-full		24.08	system
-openh264	org.freedesktop.Platform.openh264	2.4.1	2.4.1	system
 openh264	org.freedesktop.Platform.openh264	2.5.1	2.5.1	system
 GNU Image Manipulation Program	org.gimp.GIMP	3.0.2	stable	system
 HEIC	org.gimp.GIMP.HEIC		stable	system
