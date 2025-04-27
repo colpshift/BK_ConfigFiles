@@ -1,14 +1,12 @@
 #--------------------------------------------------
-# example unix/linux crontab file format:
+# https://crontab.guru/
 #--------------------------------------------------
-# min,hour,dayOfMonth,month,dayOfWeek command
 #
-# field          allowed values
-# -----          --------------
-# minute         0-59
-# hour           0-23
-# day of month   1-31
-# month          1-12 (or names, see below)
-# day of week    0-7 (0 or 7 is Sun, or use names)
+# |______________ Minute (0 - 59)
+# | |_______________ Hour (0 - 23)
+# | | |_______________ Day of the Month (1 - 31)(January to December)
+# | | | |_______________ Month of the Year (1 - 12)
+# | | | | |_______________ Day of the Week (0 - 6)(Sunday to Saturday)
+# * * * * * command to be executed
 #
 #--------------------------------------------------

@@ -19,7 +19,6 @@ ncurses-libs-6.5-5.20250125.fc42.x86_64
 zlib-ng-compat-2.2.4-3.fc42.x86_64
 libuuid-2.40.4-7.fc42.x86_64
 libblkid-2.40.4-7.fc42.x86_64
-xz-libs-5.6.3-3.fc42.x86_64
 libzstd-1.5.7-1.fc42.x86_64
 grub2-common-2.12-28.fc42.noarch
 libstdc++-15.0.1-0.11.fc42.x86_64
@@ -101,7 +100,6 @@ NetworkManager-libnm-1.52.0-1.fc42.x86_64
 gobject-introspection-1.84.0-1.fc42.x86_64
 libsemanage-3.8-1.fc42.x86_64
 shadow-utils-4.17.4-1.fc42.x86_64
-xz-5.6.3-3.fc42.x86_64
 device-mapper-persistent-data-1.1.0-3.fc42.x86_64
 sdbus-cpp-1.5.0-4.fc42.x86_64
 procps-ng-4.0.4-6.fc42.x86_64
@@ -117,7 +115,6 @@ gettext-libs-0.23.1-2.fc42.x86_64
 graphite2-1.3.14-18.fc42.x86_64
 snappy-1.2.1-4.fc42.x86_64
 grub2-pc-modules-2.12-28.fc42.noarch
-kexec-tools-2.0.30-3.fc42.x86_64
 file-libs-5.46-1.fc42.x86_64
 file-5.46-1.fc42.x86_64
 libpng-1.6.44-2.fc42.x86_64
@@ -261,7 +258,6 @@ gsettings-desktop-schemas-48.0-1.fc42.x86_64
 pixman-0.44.2-2.fc42.x86_64
 libwebp-1.5.0-2.fc42.x86_64
 fribidi-1.0.16-2.fc42.x86_64
-nspr-4.36.0-5.fc42.x86_64
 libtalloc-2.4.3-2.fc42.x86_64
 urw-base35-fonts-common-20200910-24.fc42.noarch
 satyr-0.43-5.fc42.x86_64
@@ -273,7 +269,6 @@ libxslt-1.1.43-1.fc42.x86_64
 shared-mime-info-2.3-7.fc42.x86_64
 gdk-pixbuf2-2.42.12-10.fc42.x86_64
 libnotify-0.8.3-5.fc42.x86_64
-nss-util-3.109.0-1.fc42.x86_64
 opus-1.5.2-2.fc42.x86_64
 avahi-glib-0.9~rc2-2.fc42.x86_64
 libtdb-1.4.13-2.fc42.x86_64
@@ -348,7 +343,6 @@ python3-systemd-235-13.fc42.x86_64
 python3-libselinux-3.8-1.fc42.x86_64
 libproxy-0.5.8-2.fc42.x86_64
 libpeas1-1.36.0-8.fc42.x86_64
-mesa-filesystem-25.0.2-3.fc42.x86_64
 libglvnd-1.7.0-7.fc42.x86_64
 libglvnd-opengl-1.7.0-7.fc42.x86_64
 lame-libs-3.100-19.fc42.x86_64
@@ -542,16 +536,13 @@ gpgme-1.24.2-1.fc42.x86_64
 ostree-libs-2025.2-2.fc42.x86_64
 flatpak-libs-1.16.0-2.fc42.x86_64
 gpgmepp-1.24.2-1.fc42.x86_64
-jemalloc-5.3.0-11.fc42.x86_64
 xxhash-libs-0.8.3-2.fc42.x86_64
 openpace-1.1.3-3.fc42.x86_64
 keyutils-1.6.3-5.fc42.x86_64
-cockpit-bridge-336.2-1.fc42.noarch
 less-668-2.fc42.x86_64
 git-core-2.49.0-1.fc42.x86_64
 ntfs-3g-2022.10.3-8.fc42.x86_64
 git-core-doc-2.49.0-1.fc42.noarch
-cockpit-system-336.2-1.fc42.noarch
 cifs-utils-7.2-1.fc42.x86_64
 opensc-libs-0.26.1-2.fc42.x86_64
 rsync-3.4.1-3.fc42.x86_64
@@ -566,7 +557,6 @@ python3-requests-ftp-0.3.1-36.fc42.noarch
 fuse-overlayfs-1.13-3.fc42.x86_64
 passwdqc-utils-2.0.3-6.fc42.x86_64
 pam_passwdqc-2.0.3-6.fc42.x86_64
-vpnc-0.5.3-48.svn550.fc41.x86_64
 NetworkManager-vpnc-1.4.0-2.fc42.x86_64
 sratom-0.6.18-1.fc42.x86_64
 lilv-libs-0.24.26-2.fc42.x86_64
@@ -645,10 +635,6 @@ libmpc-1.3.1-7.fc42.x86_64
 cups-pk-helper-0.2.7-9.fc42.x86_64
 python3-cups-2.0.4-4.fc42.x86_64
 avahi-gobject-0.9~rc2-2.fc42.x86_64
-nss-softokn-freebl-3.109.0-1.fc42.x86_64
-nss-softokn-3.109.0-1.fc42.x86_64
-nss-sysinit-3.109.0-1.fc42.x86_64
-nss-3.109.0-1.fc42.x86_64
 libcacard-2.8.1-11.fc42.x86_64
 liboauth-1.0.3-26.fc42.x86_64
 volume_key-libs-0.3.12-24.fc42.x86_64
@@ -877,7 +863,6 @@ lpcnetfreedv-0.5-8.fc42.x86_64
 codec2-1.2.0-6.fc42.x86_64
 python3-typing-extensions-4.12.2-4.fc42.noarch
 python3-soupsieve-2.6-5.fc42.noarch
-python3-beautifulsoup4-4.13.3-2.fc42.noarch
 ctags-6.1.0-2.fc42.x86_64
 source-highlight-3.1.9-24.fc42.x86_64
 aardvark-dns-1.14.0-1.fc42.x86_64
@@ -900,7 +885,6 @@ NetworkManager-openvpn-1.12.0-3.fc42.x86_64
 zstd-1.5.7-1.fc42.x86_64
 numad-0.5-46.20150602git.fc42.x86_64
 lzop-1.04-16.fc42.x86_64
-libnbd-1.22.1-1.fc42.x86_64
 mdevctl-1.4.0-1.fc42.x86_64
 iproute-tc-6.12.0-3.fc42.x86_64
 libwsman1-2.7.2-12.fc42.x86_64
@@ -967,7 +951,6 @@ libatasmart-0.19-30.fc42.x86_64
 libblockdev-smart-3.3.0-3.fc42.x86_64
 udisks2-2.10.90-2.fc42.x86_64
 udisks2-iscsi-2.10.90-2.fc42.x86_64
-cockpit-storaged-336.2-1.fc42.noarch
 kasumi-common-2.5-48.fc42.noarch
 gom-0.5.3-2.fc42.x86_64
 sound-theme-freedesktop-0.8-23.fc42.noarch
@@ -1176,7 +1159,6 @@ elfutils-0.192-9.fc42.x86_64
 abrt-addon-ccpp-2.17.6-4.fc42.x86_64
 abrt-tui-2.17.6-4.fc42.noarch
 openssl-3.2.4-3.fc42.x86_64
-cockpit-ws-336.2-1.fc42.x86_64
 python3-pwquality-1.4.5-12.fc42.x86_64
 python3-iso639-0.1.4-28.fc42.noarch
 python3-dasbus-1.7-9.fc42.noarch
@@ -1190,13 +1172,9 @@ qt5-qtbase-common-5.15.16-2.fc42.noarch
 qt5-qtbase-5.15.16-2.fc42.x86_64
 python3-pam-2.0.2-11.fc42.noarch
 lm_sensors-libs-3.6.0-22.fc42.x86_64
-mesa-libgbm-25.0.2-3.fc42.x86_64
-mesa-dri-drivers-25.0.2-3.fc42.x86_64
 libglvnd-egl-1.7.0-7.fc42.x86_64
-mesa-libEGL-25.0.2-3.fc42.x86_64
 libglvnd-gles-1.7.0-7.fc42.x86_64
 libglvnd-glx-1.7.0-7.fc42.x86_64
-mesa-libGL-25.0.2-3.fc42.x86_64
 gstreamer1-plugins-base-1.26.0-1.fc42.x86_64
 libva-2.22.0-4.fc42.x86_64
 libavutil-free-7.1.1-3.fc42.x86_64
@@ -1445,7 +1423,6 @@ PackageKit-command-not-found-1.2.8-9.fc42.x86_64
 sane-backends-drivers-scanners-1.3.1-2.fc42.x86_64
 nbdkit-1.42.2-1.fc42.x86_64
 avif-pixbuf-loader-1.1.1-1.fc42.x86_64
-mesa-vulkan-drivers-25.0.2-3.fc42.x86_64
 udisks2-btrfs-2.10.90-2.fc42.x86_64
 udisks2-lvm2-2.10.90-2.fc42.x86_64
 dnf-plugins-core-4.10.1-1.fc42.noarch
@@ -1488,7 +1465,6 @@ zip-3.0-43.fc42.x86_64
 default-fonts-core-serif-4.2-4.fc42.noarch
 default-fonts-core-mono-4.2-4.fc42.noarch
 default-fonts-other-mono-4.2-4.fc42.noarch
-mesa-va-drivers-25.0.2-3.fc42.x86_64
 apr-util-openssl-1.6.3-22.fc42.x86_64
 nmap-ncat-7.92-5.fc42.x86_64
 tcpdump-4.99.5-3.fc42.x86_64
@@ -1588,8 +1564,6 @@ daxctl-libs-81-1.fc42.x86_64
 libwayland-server-1.23.1-1.fc42.x86_64
 libtinysparql-3.9.2-1.fc42.x86_64
 upower-libs-1.90.9-1.fc42.x86_64
-python3-libs-3.13.3-1.fc42.x86_64
-python3-3.13.3-1.fc42.x86_64
 vulkan-loader-1.4.309.0-1.fc42.x86_64
 selinux-policy-41.38-1.fc42.noarch
 selinux-policy-targeted-41.38-1.fc42.noarch
@@ -1605,7 +1579,6 @@ perl-locale-1.12-517.fc42.noarch
 perl-overloading-0.02-517.fc42.noarch
 libwayland-cursor-1.23.1-1.fc42.x86_64
 libinput-1.28.1-1.fc42.x86_64
-librados2-19.2.2-1.fc42.x86_64
 libmanette-0.2.12-1.fc42.x86_64
 LibRaw-0.21.4-1.fc42.x86_64
 bluez-libs-5.81-2.fc42.x86_64
@@ -1624,7 +1597,6 @@ gnome-online-accounts-3.54.2-5.fc42.x86_64
 libportal-gtk4-0.9.1-2.fc42.x86_64
 gutenprint-5.3.5-5.fc42.x86_64
 pipewire-gstreamer-1.4.2-1.fc42.x86_64
-librbd1-19.2.2-1.fc42.x86_64
 python3-s3transfer-0.11.5-1.fc42.noarch
 passt-0^20250415.g2340bbf-1.fc42.x86_64
 passt-selinux-0^20250415.g2340bbf-1.fc42.noarch
@@ -1810,7 +1782,6 @@ kernel-modules-extra-6.14.2-300.fc42.x86_64
 alsa-utils-1.2.14-1.fc42.x86_64
 ibus-libpinyin-1.16.2-1.fc42.x86_64
 ibus-m17n-1.4.36-1.fc42.x86_64
-ibus-typing-booster-2.27.36-1.fc42.noarch
 perl-FileHandle-2.05-517.fc42.noarch
 perl-IPC-Open3-1.22-517.fc42.noarch
 perl-B-1.89-517.fc42.x86_64
@@ -1850,7 +1821,6 @@ pipewire-alsa-1.4.2-1.fc42.x86_64
 pipewire-plugin-libcamera-1.4.2-1.fc42.x86_64
 pipewire-pulseaudio-1.4.2-1.fc42.x86_64
 cups-ipptool-2.4.12-2.fc42.x86_64
-python-unversioned-command-3.13.3-1.fc42.noarch
 python3-lxml-5.3.2-1.fc42.x86_64
 python3-setools-4.5.1-6.fc42.x86_64
 tinysparql-3.9.2-1.fc42.x86_64
@@ -1940,7 +1910,6 @@ fastfetch-2.39.1-1.fc42.x86_64
 btop-1.4.0-2.fc42.x86_64
 hwloc-libs-2.12.0-1.fc42.x86_64
 htop-3.4.1-1.fc42.x86_64
-ufw-0.35-33.fc41.noarch
 nodejs-libs-22.14.0-2.fc42.x86_64
 nodejs-22.14.0-2.fc42.x86_64
 nodejs-npm-10.9.2-1.22.14.0.2.fc42.x86_64
@@ -1957,7 +1926,6 @@ code-1.99.3-1744761644.el8.x86_64
 neo-htop-1.1.2-1.x86_64
 zoom-6.4.6.1370-1.x86_64
 cmatrix-2.0-11.fc42.x86_64
-python3-pip-24.3.1-2.fc42.noarch
 perl-NKF-2.1.4-35.fc42.x86_64
 gc-8.2.6-4.fc42.x86_64
 w3m-0.5.3-65.git20230121.fc42.x86_64
@@ -2022,7 +1990,6 @@ highcontrast-icon-theme-3.28-22.fc42.noarch
 adwaita-gtk2-theme-3.28-22.fc42.x86_64
 ibus-gtk2-1.5.32-1.fc42.x86_64
 libcanberra-gtk2-0.30-37.fc42.x86_64
-nss-tools-3.109.0-1.fc42.x86_64
 pgdg-fedora-repo-42.0-39PGDG.noarch
 gpg-pubkey-08b40d20-6581afc1
 postgresql17-libs-17.4-4PGDG.f42.x86_64
@@ -2050,3 +2017,43 @@ pstoedit-4.02-2.fc42.x86_64
 autotrace-0.31.9-12.fc42.x86_64
 libspiro-20240903-2.fc42.x86_64
 fontforge-20230101-15.fc42.x86_64
+dbus-x11-1.16.0-3.fc42.x86_64
+firewall-config-2.3.0-5.fc42.noarch
+python3-pip-24.3.1-2.fc42.noarch
+lua-5.4.7-3.fc42.x86_64
+lua-socket-3.1.0-7.fc42.x86_64
+compat-lua-libs-5.1.5-28.fc42.x86_64
+compat-lua-devel-5.1.5-28.fc42.x86_64
+lua-sec-1.3.2-5.fc42.x86_64
+luarocks-3.9.2-7.fc42.noarch
+lua-devel-5.4.7-3.fc42.x86_64
+nspr-4.36.0-7.fc42.x86_64
+nss-util-3.110.0-2.fc42.x86_64
+xz-libs-5.8.1-2.fc42.x86_64
+mesa-filesystem-25.0.4-2.fc42.x86_64
+mesa-libgbm-25.0.4-2.fc42.x86_64
+mesa-dri-drivers-25.0.4-2.fc42.x86_64
+python3-libs-3.13.3-2.fc42.x86_64
+python3-3.13.3-2.fc42.x86_64
+cockpit-bridge-337-1.fc42.noarch
+cockpit-system-337-1.fc42.noarch
+nss-softokn-freebl-3.110.0-2.fc42.x86_64
+nss-softokn-3.110.0-2.fc42.x86_64
+nss-3.110.0-2.fc42.x86_64
+nss-sysinit-3.110.0-2.fc42.x86_64
+librados2-19.2.2-2.fc42.x86_64
+librbd1-19.2.2-2.fc42.x86_64
+nss-tools-3.110.0-2.fc42.x86_64
+cockpit-storaged-337-1.fc42.noarch
+ibus-typing-booster-2.27.38-1.fc42.noarch
+python-unversioned-command-3.13.3-2.fc42.noarch
+python3-beautifulsoup4-4.13.4-1.fc42.noarch
+mesa-libGL-25.0.4-2.fc42.x86_64
+mesa-libEGL-25.0.4-2.fc42.x86_64
+mesa-vulkan-drivers-25.0.4-2.fc42.x86_64
+mesa-va-drivers-25.0.4-2.fc42.x86_64
+kexec-tools-2.0.31-1.fc42.x86_64
+xz-5.8.1-2.fc42.x86_64
+vpnc-0.5.3^20241114.git11e15a1-1.fc42.x86_64
+libnbd-1.22.2-1.fc42.x86_64
+cockpit-ws-337-1.fc42.x86_64
