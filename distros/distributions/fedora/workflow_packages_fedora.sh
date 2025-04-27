@@ -6,7 +6,7 @@
 ### Pin
 #
 thunderbird
-  bublemail
+bublemail
 contacts
 notion
 todoist
@@ -72,7 +72,7 @@ go
 bitwarden
 seaworse
 warsaw
-  https://cloud.gastecnologia.com.br/bb/downloads/ws/warsaw_setup64.rpm
+https://cloud.gastecnologia.com.br/bb/downloads/ws/warsaw_setup64.rpm
 
 ### utilities
 #
@@ -83,26 +83,26 @@ timeshift
 #
 shell-genie
 namebench
-  kitty
-  starship
-  lsd
-  ripgrep
+kitty
+starship
+lsd
+ripgrep
 lazygit
 go DiskUsage
 bottom
 node
-  dust
-  duf
-  procs
-  fd
-  bat
+dust
+duf
+procs
+fd
+bat
 fasd
 broot
-  fzf
-  fzf-tab
-  forgit
-  emoji-cli
-  highlight
+fzf
+fzf-tab
+forgit
+emoji-cli
+highlight
 
 ### gnome
 #
@@ -110,22 +110,16 @@ extensions
 Tweak
 # extensions
 #
-AppIndicator and KStatusNotifierItem Support by 3v1n0
-Bing Wallpaper by neffo
-Bubblemail by Razer
-Caffeine by eon
-Compact Top Bar by wete
-Dash to Dock by michele_g
-Lock Keys by kazimieras.vaina
-OpenWeather by skrewball
-Pano - Clipboard Manager by alperenelhan
-Vitals by corecoding
+'Caffeine' by eon
+'Dash to Dock' by michele_g
+'Lock Keys' by kazimieras.vaina
+'Tiling Shell' by domferr
+'Transparent Top Bar (Adjustable transparency)' by Gonzague
 #
-system Window List by fmuellner
-system Places Status Indicator by fmuellner
-system Applications Menu by fmuellner
-system Background Logo
-system Launch new instance by fmuellner
+'Bubblemail' by Razer
+'OpenWeather' by skrewball
+'Pano' - Clipboard Manager by alperenelhan
+'Vitals' by corecoding
 
 ### Things to do After Installing
 #
@@ -137,7 +131,7 @@ sudo nvim /etc/dnf/dnf.conf
 max_parallel_downloads=10
 fastestmirror=true
 deltarpm=true
-# 
+#
 # 2. Update the System
 sudo dnf update
 #
@@ -152,10 +146,10 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 sudo dnf install gstreamer1-plugins-{bad-\*,good-\*,base} gstreamer1-plugin-openh264 gstreamer1-libav --exclude=gstreamer1-plugins-bad-free-devel
 sudo dnf install lame\* --exclude=lame-devel
 sudo dnf group upgrade --with-optional Multimedia
-# 
+#
 # 6. Change Hostname After Installation
 sudo hostnamectl set-hostname "New_Custom_Name"
-# 
+#
 # 7. Install Gnome Tweaks and Extensions App
 sudo dnf install gnome-tweaks gnome-extensions-app
 #
@@ -175,4 +169,3 @@ sudo dnf install gnome-tweaks gnome-extensions-app
 #
 # 15. Enable Disable the Animation effect for a faster response
 #
-
