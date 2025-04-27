@@ -306,7 +306,6 @@ libreport-2.17.15-5.fc42.x86_64
 abrt-libs-2.17.6-4.fc42.x86_64
 bubblewrap-0.10.0-1.fc42.x86_64
 libunwind-1.8.1-2.fc42.x86_64
-gstreamer1-1.26.0-1.fc42.x86_64
 gperftools-libs-2.15-5.fc42.x86_64
 libgfrpc0-11.1-8.fc42.x86_64
 libgfxdr0-11.1-8.fc42.x86_64
@@ -1152,7 +1151,6 @@ wireplumber-0.5.8-1.fc42.x86_64
 iw-6.9-3.fc42.x86_64
 python3-ptyprocess-0.7.0-10.fc42.noarch
 python3-pexpect-4.9.0-8.fc42.noarch
-libuv-1.50.0-1.fc42.x86_64
 libmaxminddb-1.12.2-3.fc42.x86_64
 fstrm-0.6.1-12.fc42.x86_64
 elfutils-0.192-9.fc42.x86_64
@@ -1175,11 +1173,9 @@ lm_sensors-libs-3.6.0-22.fc42.x86_64
 libglvnd-egl-1.7.0-7.fc42.x86_64
 libglvnd-gles-1.7.0-7.fc42.x86_64
 libglvnd-glx-1.7.0-7.fc42.x86_64
-gstreamer1-plugins-base-1.26.0-1.fc42.x86_64
 libva-2.22.0-4.fc42.x86_64
 libavutil-free-7.1.1-3.fc42.x86_64
 evince-libs-48.0-1.fc42.x86_64
-gstreamer1-plugins-bad-free-libs-1.26.0-1.fc42.x86_64
 gnome-desktop4-44.1-3.fc42.x86_64
 libgdata-0.18.1-14.fc42.x86_64
 libnma-gtk4-1.10.6-9.fc42.x86_64
@@ -1225,7 +1221,6 @@ libshumate-1.4.0-1.fc42.x86_64
 evince-previewer-48.0-1.fc42.x86_64
 evince-thumbnailer-48.0-1.fc42.x86_64
 totem-video-thumbnailer-43.1-5.fc42.x86_64
-gst-editing-services-1.26.0-1.fc42.x86_64
 xorg-x11-server-Xwayland-24.1.6-1.fc42.x86_64
 freeglut-3.6.0-4.fc42.x86_64
 libcaca-0.99-0.76.beta20.fc42.x86_64
@@ -1235,10 +1230,8 @@ wavpack-5.8.1-1.fc42.x86_64
 taglib-1.13.1-2.fc42.x86_64
 soundtouch-2.3.3-2.fc42.x86_64
 libsrtp-2.6.0-2.fc42.x86_64
-gstreamer1-plugins-bad-free-1.26.0-1.fc42.x86_64
 libmpeg2-0.5.1-31.fc42.x86_64
 liba52-0.7.4-50.fc42.x86_64
-gstreamer1-plugins-ugly-free-1.26.0-1.fc42.x86_64
 distribution-gpg-keys-1.110-1.fc42.noarch
 unicode-ucd-16.0.0-2.fc42.noarch
 python3-pyxdg-0.27-14.fc42.noarch
@@ -1374,7 +1367,6 @@ evince-48.0-1.fc42.x86_64
 ptyxis-48.1-1.fc42.x86_64
 malcontent-control-0.13.0-2.fc42.x86_64
 gnome-contacts-48.0-1.fc42.x86_64
-gstreamer1-plugin-libav-1.26.0-1.fc42.x86_64
 qadwaitadecorations-qt5-0.1.6-7.fc42.x86_64
 desktop-backgrounds-gnome-42.0.0-2.fc42.noarch
 qt5-qtxmlpatterns-5.15.16-2.fc42.x86_64
@@ -1396,7 +1388,6 @@ NetworkManager-ssh-gnome-1.3.1-1.fc42.x86_64
 evince-djvu-48.0-1.fc42.x86_64
 sushi-46.0-3.fc42.x86_64
 intel-mediasdk-23.2.2-7.fc42.x86_64
-gstreamer1-plugin-openh264-1.26.0-1.fc42.x86_64
 gstreamer1-plugin-dav1d-0.13.4-1.fc42.x86_64
 xdriinfo-1.0.7-4.fc42.x86_64
 abrt-cli-2.17.6-4.fc42.x86_64
@@ -1558,7 +1549,6 @@ systemd-shared-257.5-2.fc42.x86_64
 protobuf-c-1.5.1-1.fc42.x86_64
 perl-Fcntl-1.18-517.fc42.x86_64
 perl-Symbol-1.09-517.fc42.noarch
-gstreamer1-plugins-good-1.26.0-2.fc42.x86_64
 libportal-0.9.1-2.fc42.x86_64
 daxctl-libs-81-1.fc42.x86_64
 libwayland-server-1.23.1-1.fc42.x86_64
@@ -1605,7 +1595,6 @@ python3-argcomplete-3.6.2-2.fc42.noarch
 python3-firewall-2.3.0-5.fc42.noarch
 cxl-libs-81-1.fc42.x86_64
 ndctl-libs-81-1.fc42.x86_64
-gstreamer1-plugins-good-gtk-1.26.0-2.fc42.x86_64
 perl-SelectSaver-1.02-517.fc42.noarch
 bind-libs-9.18.35-2.fc42.x86_64
 criu-4.1-2.fc42.x86_64
@@ -1763,8 +1752,6 @@ libsane-hpaio-3.25.2-2.fc42.x86_64
 httpd-2.4.63-1.fc42.x86_64
 mod_lua-2.4.63-1.fc42.x86_64
 kf6-kimageformats-6.13.0-1.fc42.x86_64
-gstreamer1-plugins-good-qt6-1.26.0-2.fc42.x86_64
-mediawriter-5.2.4-1.fc42.x86_64
 vim-minimal-9.1.1275-1.fc42.x86_64
 qemu-kvm-9.2.3-1.fc42.x86_64
 qemu-kvm-core-9.2.3-1.fc42.x86_64
@@ -1825,7 +1812,6 @@ python3-lxml-5.3.2-1.fc42.x86_64
 python3-setools-4.5.1-6.fc42.x86_64
 tinysparql-3.9.2-1.fc42.x86_64
 libportal-gtk3-0.9.1-2.fc42.x86_64
-gstreamer1-plugins-good-qt-1.26.0-2.fc42.x86_64
 perl-AutoLoader-5.74-517.fc42.noarch
 perl-Getopt-Std-1.14-517.fc42.noarch
 perl-NDBM_File-1.17-517.fc42.x86_64
@@ -1932,10 +1918,7 @@ w3m-0.5.3-65.git20230121.fc42.x86_64
 xclip-0.13-24.git11cba61.fc42.x86_64
 kernel-modules-core-6.14.3-300.fc42.x86_64
 kernel-core-6.14.3-300.fc42.x86_64
-libdnf5-5.2.13.0-1.fc42.x86_64
-libdnf5-cli-5.2.13.0-1.fc42.x86_64
 kernel-modules-6.14.3-300.fc42.x86_64
-dnf5-5.2.13.0-1.fc42.x86_64
 llvm-filesystem-20.1.3-1.fc42.x86_64
 llvm-libs-20.1.3-1.fc42.x86_64
 kernel-tools-libs-6.14.3-300.fc42.x86_64
@@ -1944,10 +1927,8 @@ golang-bin-1.24.2-2.fc42.x86_64
 golang-1.24.2-2.fc42.x86_64
 kernel-tools-6.14.3-300.fc42.x86_64
 python3-perf-6.14.3-300.fc42.x86_64
-dnf5-plugins-5.2.13.0-1.fc42.x86_64
 kernel-6.14.3-300.fc42.x86_64
 kernel-modules-extra-6.14.3-300.fc42.x86_64
-libdnf5-plugin-expired-pgp-keys-5.2.13.0-1.fc42.x86_64
 kernel-headers-6.14.3-300.fc42.x86_64
 m4-1.4.19-12.fc42.x86_64
 bison-3.8.2-9.fc41.x86_64
@@ -2057,3 +2038,22 @@ xz-5.8.1-2.fc42.x86_64
 vpnc-0.5.3^20241114.git11e15a1-1.fc42.x86_64
 libnbd-1.22.2-1.fc42.x86_64
 cockpit-ws-337-1.fc42.x86_64
+gstreamer1-1.26.1-1.fc42.x86_64
+gstreamer1-plugins-base-1.26.1-1.fc42.x86_64
+libdnf5-5.2.13.1-1.fc42.x86_64
+gstreamer1-plugins-good-1.26.1-1.fc42.x86_64
+libdnf5-cli-5.2.13.1-1.fc42.x86_64
+dnf5-5.2.13.1-1.fc42.x86_64
+gstreamer1-plugins-bad-free-libs-1.26.1-1.fc42.x86_64
+gstreamer1-plugins-bad-free-1.26.1-1.fc42.x86_64
+dnf5-plugins-5.2.13.1-1.fc42.x86_64
+gstreamer1-plugins-good-qt6-1.26.1-1.fc42.x86_64
+gstreamer1-plugins-good-qt-1.26.1-1.fc42.x86_64
+gstreamer1-plugins-good-gtk-1.26.1-1.fc42.x86_64
+libdnf5-plugin-expired-pgp-keys-5.2.13.1-1.fc42.x86_64
+gst-editing-services-1.26.1-1.fc42.x86_64
+gstreamer1-plugin-libav-1.26.1-1.fc42.x86_64
+gstreamer1-plugin-openh264-1.26.1-1.fc42.x86_64
+gstreamer1-plugins-ugly-free-1.26.1-1.fc42.x86_64
+mediawriter-5.2.5-1.fc42.x86_64
+libuv-1.51.0-1.fc42.x86_64
