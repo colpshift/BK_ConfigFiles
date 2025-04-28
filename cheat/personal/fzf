@@ -1,0 +1,19 @@
+# Fish - fzf find 
+Ctrl+Alt+F (F for file)
+
+# Fish - fzf history
+Ctrl+R (R for reverse-i-search)
+
+# Fish - fzf git log
+Ctrl+Alt+L (L for log)
+
+# Fish - fzf git status
+Ctrl+Alt+S (S for status)
+
+# Fish - fzf processes
+Ctrl+Alt+P (P for process)
+
+# Fish - fzf variables
+Ctrl+V (V for variable)
+
+

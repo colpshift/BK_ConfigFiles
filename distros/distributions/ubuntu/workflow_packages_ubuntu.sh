@@ -129,7 +129,7 @@ fish # https://fishshell.com/
 # https://github.com/jorgebucaran/awsm.fish#readme
 fisher
 z for fish       # https://github.com/jethrokuan/z
-fzf.fish         # https://github.com/jethrokuan/fzf
+fzf.fish         # https://github.com/PatrickF1/fzf.fish?tab=readme-ov-file
 autopairs        # https://github.com/jorgebucaran/autopair.fish
 tide prompt      # https://github.com/IlanCosman/tide
 spacefish prompt # https://github.com/matchai/spacefish
