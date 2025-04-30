@@ -72,6 +72,14 @@ nodejs
 python
 rust
 go
+ruby
+ruby-devel
+make
+automake
+gcc
+gcc-c++
+kernel-devel
+group install development-tools
 
 ### Security
 #

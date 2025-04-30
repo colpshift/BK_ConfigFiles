@@ -1,5 +1,5 @@
 Bitwarden	com.bitwarden.desktop	2025.3.0	stable	system
-Discord	com.discordapp.Discord	0.0.92	stable	system
+Discord	com.discordapp.Discord	0.0.93	stable	system
 draw.io	com.jgraph.drawio.desktop	26.0.16	stable	system
 Microsoft Edge	com.microsoft.Edge	135.0.3179.98-1	stable	system
 Spotify	com.spotify.Client	1.2.59.514.g834e17d4	stable	system
