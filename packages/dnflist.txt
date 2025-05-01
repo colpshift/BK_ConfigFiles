@@ -348,7 +348,7 @@ docker-ce.x86_64                                     3:28.1.1-1.fc42            
 docker-ce-cli.x86_64                                 1:28.1.1-1.fc42                    docker-ce-stable
 docker-ce-rootless-extras.x86_64                     28.1.1-1.fc42                      docker-ce-stable
 docker-compose-plugin.x86_64                         2.35.1-1.fc42                      docker-ce-stable
-docker-desktop.x86_64                                4.41.0-190950                      @commandline
+docker-desktop.x86_64                                4.41.1-191279                      <unknown>
 dos2unix.x86_64                                      7.5.2-3.fc42                       624cbc92582d4ecfae4c58749abde4f8
 dosfstools.x86_64                                    4.2-15.fc42                        624cbc92582d4ecfae4c58749abde4f8
 dotconf.x86_64                                       1.4.1-4.fc42                       624cbc92582d4ecfae4c58749abde4f8
@@ -424,8 +424,8 @@ file-libs.x86_64                                     5.46-1.fc42                
 filesystem.x86_64                                    3.18-36.fc42                       624cbc92582d4ecfae4c58749abde4f8
 filesystem-srpm-macros.noarch                        3.18-36.fc42                       fedora
 findutils.x86_64                                     1:4.10.0-5.fc42                    624cbc92582d4ecfae4c58749abde4f8
-firefox.x86_64                                       137.0-2.fc42                       <unknown>
-firefox-langpacks.x86_64                             137.0-2.fc42                       <unknown>
+firefox.x86_64                                       138.0-1.fc42                       updates
+firefox-langpacks.x86_64                             138.0-1.fc42                       updates
 firewall-config.noarch                               2.3.0-5.fc42                       updates
 firewalld.noarch                                     2.3.0-5.fc42                       <unknown>
 firewalld-filesystem.noarch                          2.3.0-5.fc42                       <unknown>
@@ -1063,7 +1063,7 @@ libgweather.x86_64                                   4.4.4-2.fc42               
 libgxps.x86_64                                       0.3.2-10.fc42                      624cbc92582d4ecfae4c58749abde4f8
 libhandy.x86_64                                      1.8.3-4.fc42                       624cbc92582d4ecfae4c58749abde4f8
 libhangul.x86_64                                     0.1.0-33.fc42                      624cbc92582d4ecfae4c58749abde4f8
-libheif.x86_64                                       1.19.7-1.fc42                      624cbc92582d4ecfae4c58749abde4f8
+libheif.x86_64                                       1.19.8-1.fc42                      updates
 libibverbs.x86_64                                    55.0-1.fc42                        624cbc92582d4ecfae4c58749abde4f8
 libical.x86_64                                       3.0.20-1.fc42                      624cbc92582d4ecfae4c58749abde4f8
 libical-glib.x86_64                                  3.0.20-1.fc42                      624cbc92582d4ecfae4c58749abde4f8
@@ -1138,7 +1138,7 @@ libnvme.x86_64                                       1.13-1.fc42                
 liboauth.x86_64                                      1.0.3-26.fc42                      624cbc92582d4ecfae4c58749abde4f8
 liboeffis.x86_64                                     1.4.1-1.fc42                       <unknown>
 libogg.x86_64                                        2:1.3.5-11.fc42                    624cbc92582d4ecfae4c58749abde4f8
-libopenjph.x86_64                                    0.21.2-1.fc42                      624cbc92582d4ecfae4c58749abde4f8
+libopenjph.x86_64                                    0.21.2-2.fc42                      updates
 libopenmpt.x86_64                                    0.7.13-3.fc42                      624cbc92582d4ecfae4c58749abde4f8
 libosinfo.x86_64                                     1.12.0-2.fc42                      624cbc92582d4ecfae4c58749abde4f8
 libpaper.x86_64                                      1:2.1.1-8.fc42                     624cbc92582d4ecfae4c58749abde4f8
@@ -1698,8 +1698,8 @@ python3-augeas.noarch                                1.1.0-15.fc42              
 python3-beautifulsoup4.noarch                        4.13.4-1.fc42                      updates
 python3-blivet.noarch                                1:3.12.1-2.fc42                    624cbc92582d4ecfae4c58749abde4f8
 python3-blockdev.x86_64                              3.3.0-3.fc42                       624cbc92582d4ecfae4c58749abde4f8
-python3-boto3.noarch                                 1.38.4-1.fc42                      updates
-python3-botocore.noarch                              1.38.4-1.fc42                      updates
+python3-boto3.noarch                                 1.38.5-1.fc42                      updates
+python3-botocore.noarch                              1.38.5-1.fc42                      updates
 python3-brlapi.x86_64                                0.8.6-8.fc42                       624cbc92582d4ecfae4c58749abde4f8
 python3-brotli.x86_64                                1.1.0-6.fc42                       <unknown>
 python3-bytesize.x86_64                              2.11-100.fc42                      624cbc92582d4ecfae4c58749abde4f8
@@ -1780,7 +1780,7 @@ python3-setuptools.noarch                            74.1.3-5.fc42              
 python3-simpleaudio.x86_64                           1.0.4-16.fc42                      624cbc92582d4ecfae4c58749abde4f8
 python3-simpleline.noarch                            1.9.0-13.fc42                      624cbc92582d4ecfae4c58749abde4f8
 python3-six.noarch                                   1.17.0-2.fc42                      624cbc92582d4ecfae4c58749abde4f8
-python3-soupsieve.noarch                             2.6-5.fc42                         624cbc92582d4ecfae4c58749abde4f8
+python3-soupsieve.noarch                             2.7-1.fc42                         updates
 python3-speechd.x86_64                               0.12.0-1.fc42                      624cbc92582d4ecfae4c58749abde4f8
 python3-systemd.x86_64                               235-13.fc42                        624cbc92582d4ecfae4c58749abde4f8
 python3-typing-extensions.noarch                     4.12.2-4.fc42                      624cbc92582d4ecfae4c58749abde4f8
@@ -1973,7 +1973,7 @@ sqlite-libs.x86_64                                   3.47.2-2.fc42              
 squashfs-tools.x86_64                                4.6.1-6.fc42                       624cbc92582d4ecfae4c58749abde4f8
 sratom.x86_64                                        0.6.18-1.fc42                      624cbc92582d4ecfae4c58749abde4f8
 srt-libs.x86_64                                      1.5.4-2.fc42                       624cbc92582d4ecfae4c58749abde4f8
-sscg.x86_64                                          3.0.6-2.fc42                       <unknown>
+sscg.x86_64                                          3.0.7-1.fc42                       updates
 sshpass.x86_64                                       1.09-10.fc42                       624cbc92582d4ecfae4c58749abde4f8
 sssd-client.x86_64                                   2.10.2-3.fc42                      624cbc92582d4ecfae4c58749abde4f8
 sssd-common.x86_64                                   2.10.2-3.fc42                      624cbc92582d4ecfae4c58749abde4f8
