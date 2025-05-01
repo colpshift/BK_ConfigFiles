@@ -1,0 +1,21 @@
+opts = {
+  formatters_by_ft = {
+    ["python"] = { "black" },
+    ["go"] = { "goimports" },
+    ["html"] = { "prettier"},
+    ["json"] = { "prettier"},
+    ["javascript"] = { "prettier"},
+    ["Markdown"] = { "prettier"},
+    ["TypeScript"] = { "prettier"},
+    ["yaml"] = { "prettier"},
+    ["Angular"] = { "prettier"},
+    ["css"] = { "prettier"},
+    ["vue"] = { "prettier"},
+    ["sh"] = { "shfmt"},
+    ["bash"] = { "shfmt"},
+    ["mksh"] = { "shfmt"},
+    ["zsh"] = { "shfmt"},
+    ["lua"] = { "stylua"},
+    ["rust"] = { "rustfmt"},
+  },
+}
