@@ -14,4 +14,4 @@
 00 08 * * Mon /home/colps/.scripts/clear_log_nvim.sh
 05 08 * * Mon /home/colps/.scripts/clear_log_screenshot.sh
 10 08 * * Mon sudo dnf clean metadata
-15 08 1 * * sudo dnf clean all
+15 08 1 * * sudo dnf clean all && sudo dnf update -y
