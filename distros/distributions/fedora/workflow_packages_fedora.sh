@@ -151,7 +151,9 @@ Tweak
 'Dash to Dock' by michele_g
 'Lock Keys' by kazimieras.vaina
 'Tiling Shell' by domferr
+'Workspaces indicator' by open apps by Favo02
 'Transparent Top Bar (Adjustable transparency)' by Gonzague
+
 #
 'Bubblemail' by Razer
 'OpenWeather' by skrewball
