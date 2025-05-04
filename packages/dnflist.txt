@@ -567,7 +567,7 @@ gnome-software-fedora-langpacks.x86_64               48.1-1.fc42                
 gnome-system-monitor.x86_64                          48.1-1.fc42                        <unknown>
 gnome-text-editor.x86_64                             48.1-1.fc42                        624cbc92582d4ecfae4c58749abde4f8
 gnome-tour.x86_64                                    48.1-1.fc42                        624cbc92582d4ecfae4c58749abde4f8
-gnome-tweaks.noarch                                  46.1-4.fc42                        <unknown>
+gnome-tweaks.noarch                                  46.1-4.fc42                        fedora
 gnome-user-docs.noarch                               48.1-1.fc42                        updates
 gnome-user-share.x86_64                              48.0-1.fc42                        624cbc92582d4ecfae4c58749abde4f8
 gnupg2.x86_64                                        2.4.7-2.fc42                       624cbc92582d4ecfae4c58749abde4f8
@@ -2120,7 +2120,7 @@ vte291-gtk4.x86_64                                   0.80.1-1.fc42              
 vulkan-loader.x86_64                                 1.4.309.0-1.fc42                   <unknown>
 w3m.x86_64                                           0.5.3-65.git20230121.fc42          <unknown>
 warp-terminal.x86_64                                 v0.2025.04.30.08.11.stable_01-1    <unknown>
-warsaw.x86_64                                        2.21.3-1                           <unknown>
+warsaw.x86_64                                        2.21.4-3                           <unknown>
 wavpack.x86_64                                       5.8.1-1.fc42                       624cbc92582d4ecfae4c58749abde4f8
 wayland-devel.x86_64                                 1.23.1-1.fc42                      updates
 web-assets-filesystem.noarch                         5-23.fc42                          fedora

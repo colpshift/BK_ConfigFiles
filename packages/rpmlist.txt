@@ -1769,7 +1769,6 @@ julietaula-montserrat-fonts-9.000-2.fc42.noarch
 hwdata-0.394-1.fc42.noarch
 alsa-sof-firmware-2025.01.1-1.fc42.noarch
 liberation-fonts-all-2.1.5-13.fc42.noarch
-gnome-tweaks-46.1-4.fc42.noarch
 gpm-libs-1.20.7-51.fc42.x86_64
 xxd-9.1.1275-1.fc42.x86_64
 vim-filesystem-9.1.1275-1.fc42.noarch
@@ -1840,7 +1839,6 @@ libzstd-devel-1.5.7-1.fc42.x86_64
 kernel-devel-6.14.3-300.fc42.x86_64
 patch-2.8-1.fc42.x86_64
 dkms-3.1.8-1.fc42.noarch
-warsaw-2.21.3-1.x86_64
 gpg-pubkey-621e9f35-58ade481
 slirp4netns-1.3.1-2.fc42.x86_64
 libcgroup-3.0-8.fc42.x86_64
@@ -2217,3 +2215,5 @@ libvirt-client-11.0.0-2.fc42.x86_64
 onefetch-2.24.0-1.fc42.x86_64
 gstreamer1-plugin-gtk4-0.13.5-1.fc42.x86_64
 bat-0.25.0-2.fc42.x86_64
+warsaw-2.21.4-3.x86_64
+gnome-tweaks-46.1-4.fc42.noarch
