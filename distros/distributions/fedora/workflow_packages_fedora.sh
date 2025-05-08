@@ -84,8 +84,11 @@ group install development-tools
 ### Security
 #
 bitwarden
-warsaw https://cloud.gastecnologia.com.br/bb/downloads/ws/warsaw_setup64.rpm
 Tor Browser
+#
+warsaw
+wget https://cloud.gastecnologia.com.br/cef/warsaw/install/GBPCEFwr64.rpm -O gbpcef.rpm
+dnf install gbpcef.rpm
 
 ### utilities
 #
@@ -153,12 +156,11 @@ Tweak
 'Tiling Shell' by domferr
 'Workspaces indicator' by open apps by Favo02
 'Transparent Top Bar (Adjustable transparency)' by Gonzague
-
+'Vitals' by corecoding
 #
 'Bubblemail' by Razer
 'OpenWeather' by skrewball
 'Pano' - Clipboard Manager by alperenelhan
-'Vitals' by corecoding
 
 ### Things to do After Installing
 #
