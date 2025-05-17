@@ -5,6 +5,7 @@ SETUVAR DEFAULT_RECIPIENT:marcos\x2ecolpani\x40gmail\x2ecom
 SETUVAR EDITOR:nvim
 SETUVAR GEMINI_API_KEY:AIzaSyCbmBI9HFTfSclc5tGW5RPynT8BMrN70aA
 SETUVAR --export NVM_DIR:/home/colps/\x2envm
+SETUVAR OPENAI_API_KEY:AIzaSyCbmBI9HFTfSclc5tGW5RPynT8BMrN70aA
 SETUVAR PAGER:less
 SETUVAR --export --path PATH:/home/colps/\x2ecargo/bin\x1e/home/colps/\x2escripts\x1e/home/colps/\x2efzf/bin\x1e/home/colps/\x2elocal/bin\x1e/usr/local/sbin\x1e/usr/local/bin\x1e/usr/sbin\x1e/usr/bin\x1e/sbin\x1e/bin\x1e/usr/games\x1e/usr/local/games\x1e/snap/bin\x1e/snap/bin\x1e/opt/nvim\x2dlinux64/bin
 SETUVAR STARSHIP_CONFIG:home\x0flps\x2econfigstarshipstarship\x2etoml
