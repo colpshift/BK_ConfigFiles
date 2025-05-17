@@ -134,15 +134,14 @@ zsh-vi-mode
 
 ### shell fish
 fish # https://fishshell.com/
-# plugins fish
-# https://github.com/jorgebucaran/fisher
+# plugin Manager
+fisher # https://github.com/jorgebucaran/fisher
+# filsher plugins
 # https://github.com/jorgebucaran/awsm.fish#readme
-fisher
-z for fish       # https://github.com/jethrokuan/z
-fzf.fish         # https://github.com/PatrickF1/fzf.fish?tab=readme-ov-file
-autopairs        # https://github.com/jorgebucaran/autopair.fish
-tide prompt      # https://github.com/IlanCosman/tide
-spacefish prompt # https://github.com/matchai/spacefish
+jethrokuan/z               # https://github.com/jethrokuan/z
+jorgebucaran/autopair.fish # https://github.com/jorgebucaran/autopair.fish
+patrickf1/fzf.fish         # https://github.com/PatrickF1/fzf.fish
+nickeb96/puffer-fish       # https://github.com/nickeb96/puffer-fish
 
 ### gnome
 #
