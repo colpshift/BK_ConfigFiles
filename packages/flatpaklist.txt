@@ -27,7 +27,7 @@ HEIC	org.gimp.GIMP.HEIC		stable	system
 Déjà Dup Backups	org.gnome.DejaDup	48.1	stable	system
 Extensions	org.gnome.Extensions	48.1	stable	system
 GNOME Application Platform version 48	org.gnome.Platform		48	system
-Inkscape	org.inkscape.Inkscape	1.4	stable	system
+Inkscape	org.inkscape.Inkscape	1.4.2	stable	system
 Adwaita theme	org.kde.KStyle.Adwaita		5.15-24.08	system
 Adwaita theme	org.kde.KStyle.Adwaita		6.8	system
 KDE Application Platform	org.kde.Platform		5.15-24.08	system
