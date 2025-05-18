@@ -136,12 +136,12 @@ zsh-vi-mode
 fish # https://fishshell.com/
 # plugin Manager
 fisher # https://github.com/jorgebucaran/fisher
-# filsher plugins
-# https://github.com/jorgebucaran/awsm.fish#readme
+# filsher plugins          # https://github.com/jorgebucaran/awsm.fish#readme
 jethrokuan/z               # https://github.com/jethrokuan/z
 jorgebucaran/autopair.fish # https://github.com/jorgebucaran/autopair.fish
 patrickf1/fzf.fish         # https://github.com/PatrickF1/fzf.fish
 nickeb96/puffer-fish       # https://github.com/nickeb96/puffer-fish
+ilanCosman/tide@v6         # https://github.com/IlanCosman/tide
 
 ### gnome
 #

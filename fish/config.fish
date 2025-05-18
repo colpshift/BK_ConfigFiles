@@ -78,4 +78,4 @@ end
 source "$HOME/.cargo/env.fish"
 
 # starship prompt
-starship init fish | source
+# starship init fish | source
