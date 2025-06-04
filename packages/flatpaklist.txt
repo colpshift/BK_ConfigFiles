@@ -1,13 +1,12 @@
-Bitwarden	com.bitwarden.desktop	2025.4.2	stable	system
-Discord	com.discordapp.Discord	0.0.94	stable	system
-draw.io	com.jgraph.drawio.desktop	26.0.16	stable	system
-Microsoft Edge	com.microsoft.Edge	136.0.3240.76-1	stable	system
-Spotify	com.spotify.Client	1.2.59.514.g834e17d4	stable	system
+Bitwarden	com.bitwarden.desktop	2025.5.0	stable	system
+Discord	com.discordapp.Discord	0.0.96	stable	system
+draw.io	com.jgraph.drawio.desktop	26.1.1	stable	system
+Microsoft Edge	com.microsoft.Edge	137.0.3296.62-1	stable	system
+Spotify	com.spotify.Client	1.2.60.564.gcc6305cb	stable	system
 Stremio	com.stremio.Stremio	4.4.168	stable	system
 Todoist	com.todoist.Todoist	9.14.0	stable	system
 Shortwave	de.haeckerfelix.Shortwave	5.0.0	stable	system
-mpv	io.mpv.Mpv	v0.40.0	stable	system
-Xmind (2024)	net.xmind.XMind	24.10.01101	stable	system
+Xmind (2025)	net.xmind.XMind	25.04.03033	stable	system
 Audacious	org.atheme.audacious	4.4.2	stable	system
 Blender	org.blender.Blender	4.4.3	stable	system
 Codecs	org.blender.Blender.Codecs		stable	system
@@ -35,6 +34,6 @@ KDE Application Platform	org.kde.Platform		6.8	system
 QGnomePlatform	org.kde.PlatformTheme.QGnomePlatform		5.15-24.08	system
 QAdwaitaDecorations	org.kde.WaylandDecoration.QAdwaitaDecorations		5.15-24.08	system
 ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	8.3.3	stable	system
-Signal Desktop	org.signal.Signal	7.54.0	stable	system
+Signal Desktop	org.signal.Signal	7.56.0	stable	system
 Tor Browser Launcher	org.torproject.torbrowser-launcher	0.3.7	stable	system
 VLC	org.videolan.VLC	3.0.21	stable	system

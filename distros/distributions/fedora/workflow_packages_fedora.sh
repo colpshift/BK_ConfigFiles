@@ -23,6 +23,7 @@ evince
 drawio
 onlyoffice
 xmind
+bubblemail
 
 ### internet
 #
@@ -62,7 +63,6 @@ PostgreSQL
 gedit
 gitHub CLI # https://github.com/cli/cli/blob/trunk/docs/install_linux.md
 vim
-neovim
 git
 onefetch
 lazyvim
@@ -97,6 +97,10 @@ deja dup
 fastfetch
 neohtop
 
+# neovim editor
+neovim
+set -Ux MANPAGER 'nvim +Man!' # neovim to  show man pages.
+
 ### terminal
 #
 warp
@@ -117,6 +121,10 @@ htop
 btop
 starship
 fzf
+# default terminal apps
+sudo update-alternatives --install /usr/bin/x-terminal-emulator x-terminal-emulator /home/colps/.local/bin/kitty 100
+sudo update-alternatives --install /usr/bin/x-www-browser x-www-browser /usr/bin/google-chrome 100
+sudo update-alternatives --install /usr/bin/editor editor /home/colps/.local/bin/nvim 100
 
 ### shell zsh
 zsh
@@ -150,14 +158,12 @@ Tweak
 # extensions
 #
 'Caffeine' by eon
-'Dash to Dock' by michele_g
+'Dash2Dock Animated' by icedman
 'Lock Keys' by kazimieras.vaina
 'Tiling Shell' by domferr
 'Workspaces indicator' by open apps by Favo02
-'Transparent Top Bar (Adjustable transparency)' by Gonzague
 'Vitals' by corecoding
 #
-'Bubblemail' by Razer
 'OpenWeather' by skrewball
 'Pano' - Clipboard Manager by alperenelhan
 

@@ -17,6 +17,7 @@ abbr --add vi '/home/colp/.local/bin/nvim'
 abbr --add vim '/home/colp/.local/bin/nvim'
 abbr --add gvim '/home/colp/.local/bin/nvim'
 abbr --add fd fdfind
+abbr --add cheat 'cheat -c'
 abbr --add cat 'bat --theme Nord'
 abbr --add bat 'bat --theme Nord'
 abbr --add ghce 'gh copilot explain'
