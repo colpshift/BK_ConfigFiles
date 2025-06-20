@@ -1,7 +1,8 @@
+Gradia	be.alexandervanhee.gradia	1.4.3	stable	system
 Bitwarden	com.bitwarden.desktop	2025.5.1	stable	system
-Discord	com.discordapp.Discord	0.0.96	stable	system
+Discord	com.discordapp.Discord	0.0.98	stable	system
 draw.io	com.jgraph.drawio.desktop	26.1.1	stable	system
-Microsoft Edge	com.microsoft.Edge	137.0.3296.68-1	stable	system
+Microsoft Edge	com.microsoft.Edge	137.0.3296.83-1	stable	system
 Spotify	com.spotify.Client	1.2.60.564.gcc6305cb	stable	system
 Stremio	com.stremio.Stremio	4.4.168	stable	system
 Todoist	com.todoist.Todoist	9.14.0	stable	system
@@ -11,11 +12,11 @@ Audacious	org.atheme.audacious	4.4.2	stable	system
 Blender	org.blender.Blender	4.4.3	stable	system
 Codecs	org.blender.Blender.Codecs		stable	system
 Freedesktop Platform	org.freedesktop.Platform	freedesktop-sdk-23.08.31	23.08	system
-Freedesktop Platform	org.freedesktop.Platform	freedesktop-sdk-24.08.20	24.08	system
+Freedesktop Platform	org.freedesktop.Platform	freedesktop-sdk-24.08.22	24.08	system
 Mesa	org.freedesktop.Platform.GL.default	25.0.5	23.08	system
 Mesa (Extra)	org.freedesktop.Platform.GL.default	25.0.5	23.08-extra	system
-Mesa	org.freedesktop.Platform.GL.default	25.1.1	24.08	system
-Mesa (Extra)	org.freedesktop.Platform.GL.default	25.1.1	24.08extra	system
+Mesa	org.freedesktop.Platform.GL.default	25.1.3	24.08	system
+Mesa (Extra)	org.freedesktop.Platform.GL.default	25.1.3	24.08extra	system
 Intel VAAPI driver	org.freedesktop.Platform.VAAPI.Intel		23.08	system
 Intel VAAPI driver	org.freedesktop.Platform.VAAPI.Intel		24.08	system
 FFmpeg extension with extra codecs	org.freedesktop.Platform.ffmpeg-full		23.08	system
@@ -33,7 +34,7 @@ KDE Application Platform	org.kde.Platform		5.15-24.08	system
 KDE Application Platform	org.kde.Platform		6.8	system
 QGnomePlatform	org.kde.PlatformTheme.QGnomePlatform		5.15-24.08	system
 QAdwaitaDecorations	org.kde.WaylandDecoration.QAdwaitaDecorations		5.15-24.08	system
-ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	8.3.3	stable	system
-Signal Desktop	org.signal.Signal	7.56.1	stable	system
+ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	9.0.0	stable	system
+Signal Desktop	org.signal.Signal	7.58.0	stable	system
 Tor Browser Launcher	org.torproject.torbrowser-launcher	0.3.7	stable	system
 VLC	org.videolan.VLC	3.0.21	stable	system
