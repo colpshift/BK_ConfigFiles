@@ -52,6 +52,7 @@ inkscape
 document scanner
 camera
 image viewer
+gradia
 
 ### code
 #
