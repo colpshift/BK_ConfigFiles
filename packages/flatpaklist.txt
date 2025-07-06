@@ -1,20 +1,20 @@
-Gradia	be.alexandervanhee.gradia	1.4.3	stable	system
-Bitwarden	com.bitwarden.desktop	2025.5.1	stable	system
-Discord	com.discordapp.Discord	0.0.98	stable	system
+Gradia	be.alexandervanhee.gradia	1.6.1	stable	system
+Bitwarden	com.bitwarden.desktop	2025.6.1	stable	system
+Discord	com.discordapp.Discord	0.0.100	stable	system
 draw.io	com.jgraph.drawio.desktop	26.1.1	stable	system
-Microsoft Edge	com.microsoft.Edge	137.0.3296.83-1	stable	system
-Spotify	com.spotify.Client	1.2.60.564.gcc6305cb	stable	system
+Microsoft Edge	com.microsoft.Edge	138.0.3351.65-1	stable	system
+Spotify	com.spotify.Client	1.2.63.394.g126b0d89	stable	system
 Stremio	com.stremio.Stremio	4.4.168	stable	system
-Todoist	com.todoist.Todoist	9.14.0	stable	system
+Todoist	com.todoist.Todoist	9.17.0	stable	system
 Shortwave	de.haeckerfelix.Shortwave	5.0.0	stable	system
 Xmind (2025)	net.xmind.XMind	25.04.03033	stable	system
 Audacious	org.atheme.audacious	4.4.2	stable	system
 Blender	org.blender.Blender	4.4.3	stable	system
 Codecs	org.blender.Blender.Codecs		stable	system
-Freedesktop Platform	org.freedesktop.Platform	freedesktop-sdk-23.08.31	23.08	system
+Freedesktop Platform	org.freedesktop.Platform	freedesktop-sdk-23.08.32	23.08	system
 Freedesktop Platform	org.freedesktop.Platform	freedesktop-sdk-24.08.22	24.08	system
-Mesa	org.freedesktop.Platform.GL.default	25.0.5	23.08	system
-Mesa (Extra)	org.freedesktop.Platform.GL.default	25.0.5	23.08-extra	system
+Mesa	org.freedesktop.Platform.GL.default	25.0.7	23.08	system
+Mesa (Extra)	org.freedesktop.Platform.GL.default	25.0.7	23.08-extra	system
 Mesa	org.freedesktop.Platform.GL.default	25.1.3	24.08	system
 Mesa (Extra)	org.freedesktop.Platform.GL.default	25.1.3	24.08extra	system
 Intel VAAPI driver	org.freedesktop.Platform.VAAPI.Intel		23.08	system
@@ -24,17 +24,17 @@ FFmpeg extension with extra codecs	org.freedesktop.Platform.ffmpeg-full		24.08	s
 openh264	org.freedesktop.Platform.openh264	2.5.1	2.5.1	system
 GNU Image Manipulation Program	org.gimp.GIMP	3.0.4	stable	system
 HEIC	org.gimp.GIMP.HEIC		stable	system
-Déjà Dup Backups	org.gnome.DejaDup	48.2	stable	system
+Déjà Dup Backups	org.gnome.DejaDup	48.3	stable	system
 Extensions	org.gnome.Extensions	48.1	stable	system
 GNOME Application Platform version 48	org.gnome.Platform		48	system
 Inkscape	org.inkscape.Inkscape	1.4.2	stable	system
 Adwaita theme	org.kde.KStyle.Adwaita		5.15-24.08	system
-Adwaita theme	org.kde.KStyle.Adwaita		6.8	system
+Adwaita theme	org.kde.KStyle.Adwaita		6.9	system
 KDE Application Platform	org.kde.Platform		5.15-24.08	system
-KDE Application Platform	org.kde.Platform		6.8	system
+KDE Application Platform	org.kde.Platform		6.9	system
 QGnomePlatform	org.kde.PlatformTheme.QGnomePlatform		5.15-24.08	system
 QAdwaitaDecorations	org.kde.WaylandDecoration.QAdwaitaDecorations		5.15-24.08	system
 ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	9.0.0	stable	system
-Signal Desktop	org.signal.Signal	7.58.0	stable	system
+Signal Desktop	org.signal.Signal	7.60.0	stable	system
 Tor Browser Launcher	org.torproject.torbrowser-launcher	0.3.7	stable	system
 VLC	org.videolan.VLC	3.0.21	stable	system
