@@ -1,8 +1,8 @@
 Gradia	be.alexandervanhee.gradia	1.6.1	stable	system
 Bitwarden	com.bitwarden.desktop	2025.6.1	stable	system
-Discord	com.discordapp.Discord	0.0.100	stable	system
+Discord	com.discordapp.Discord	0.0.101	stable	system
 draw.io	com.jgraph.drawio.desktop	26.1.1	stable	system
-Microsoft Edge	com.microsoft.Edge	138.0.3351.65-1	stable	system
+Microsoft Edge	com.microsoft.Edge	138.0.3351.77-1	stable	system
 Spotify	com.spotify.Client	1.2.63.394.g126b0d89	stable	system
 Stremio	com.stremio.Stremio	4.4.168	stable	system
 Todoist	com.todoist.Todoist	9.17.0	stable	system
