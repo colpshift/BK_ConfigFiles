@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-## colps default apps ubuntu
+## ubuntu
 #
 
 ### reduce swappiness
@@ -28,10 +28,9 @@ signal
 ### office
 onlyoffice
 xmind
-document scanner
 
 ### internet
-firefox
+opera
 chrome
 edge
 torbrowse
@@ -50,14 +49,14 @@ Blender
 Stremio
 
 ### Image
-flameshot
+gradia
 gimp
-eog
 inkscape
 drawio
 cmatrix
 
 ### code
+docker
 MySQL Workbench
 MongoDB Compass
 gedit
@@ -90,6 +89,7 @@ neohtop
 htop
 btop
 preload
+cheat https://github.com/cheat/cheat
 
 ### terminal
 warp
@@ -124,36 +124,27 @@ zsh-vi-mode
 
 ### shell fish
 fish # https://fishshell.com/
-# plugins fish
-# https://github.com/jorgebucaran/fisher
-# https://github.com/jorgebucaran/awsm.fish#readme
-fisher
-z for fish       # https://github.com/jethrokuan/z
-fzf.fish         # https://github.com/PatrickF1/fzf.fish?tab=readme-ov-file
-autopairs        # https://github.com/jorgebucaran/autopair.fish
-tide prompt      # https://github.com/IlanCosman/tide
-spacefish prompt # https://github.com/matchai/spacefish
-## prompt fish
-# https://ohmyposh.dev/docs/installation/linux
-oh my posh
-powerlevel10k_rainbow.omp.json # theme
+# plugin Manager
+fisher # https://github.com/jorgebucaran/fisher
+# filsher plugins          # https://github.com/jorgebucaran/awsm.fish#readme
+jethrokuan/z               # https://github.com/jethrokuan/z
+jorgebucaran/autopair.fish # https://github.com/jorgebucaran/autopair.fish
+patrickf1/fzf.fish         # https://github.com/PatrickF1/fzf.fish
+nickeb96/puffer-fish       # https://github.com/nickeb96/puffer-fish
+ilanCosman/tide@v6         # https://github.com/IlanCosman/tide
 
 ### gnome
-extension manager
-gnome tweaks
-
-### gnome extensions
-"Astra Monitor" by Astra
-"Caffeine" by Patapon
-"Lock Keys" by vaina
-"OpenWeather Refined" by Penquin
-"Transparent Top Bar" by fpix
-"Tiling Shell" by "https://github.com/domferr/tilingshell"
 #
-"Bubblemail" by Razer
-"BackSlide" by p91paul
-"CPU Power Manager" by martin31821
-"Sound Input & Output Device Chooser" by kgshank
-"Vitals" by corecoding
-"Dash to Dock" by michele_g
-"Compact Quick Settings" by MarioSanchez
+extensions
+Tweak
+# extensions
+#
+'Caffeine' by eon
+'Dash2Dock Animated' by icedman
+'Lock Keys' by kazimieras.vaina
+'Tiling Shell' by domferr
+'Workspaces indicator' by open apps by Favo02
+'Vitals' by corecoding
+#
+'OpenWeather' by skrewball
+'Pano' - Clipboard Manager by alperenelhan

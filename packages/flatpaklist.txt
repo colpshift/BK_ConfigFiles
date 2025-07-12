@@ -2,7 +2,7 @@ Gradia	be.alexandervanhee.gradia	1.6.1	stable	system
 Bitwarden	com.bitwarden.desktop	2025.6.1	stable	system
 Discord	com.discordapp.Discord	0.0.101	stable	system
 draw.io	com.jgraph.drawio.desktop	26.1.1	stable	system
-Microsoft Edge	com.microsoft.Edge	138.0.3351.77-1	stable	system
+Microsoft Edge	com.microsoft.Edge	138.0.3351.83-1	stable	system
 Spotify	com.spotify.Client	1.2.63.394.g126b0d89	stable	system
 Stremio	com.stremio.Stremio	4.4.168	stable	system
 Todoist	com.todoist.Todoist	9.17.0	stable	system
@@ -35,6 +35,6 @@ KDE Application Platform	org.kde.Platform		6.9	system
 QGnomePlatform	org.kde.PlatformTheme.QGnomePlatform		5.15-24.08	system
 QAdwaitaDecorations	org.kde.WaylandDecoration.QAdwaitaDecorations		5.15-24.08	system
 ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	9.0.0	stable	system
-Signal Desktop	org.signal.Signal	7.60.0	stable	system
+Signal Desktop	org.signal.Signal	7.61.0	stable	system
 Tor Browser Launcher	org.torproject.torbrowser-launcher	0.3.7	stable	system
 VLC	org.videolan.VLC	3.0.21	stable	system
