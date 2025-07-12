@@ -36,7 +36,7 @@ abbr --add vi nvim
 abbr --add vim nvim
 abbr --add myip 'curl http://ipecho.net/plain; echo'
 abbr --add ports 'sudo ss -tulanp'
-abbr --add fedi 'clear && fastfetch'
+abbr --add ubui 'clear && fastfetch'
 abbr --add cmatrix 'cmatrix s -r'
 abbr --add systemctl_error 'sudo systemctl --failed'
 abbr --add journal_error 'sudo journalctl -p 3 -xb'
@@ -79,4 +79,4 @@ end
 source "$HOME/.cargo/env.fish"
 
 # starship prompt
-# starship init fish | source
+starship init fish | source

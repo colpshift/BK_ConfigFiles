@@ -65,7 +65,7 @@ github desktop
 vim
 neovim
 git
-onefetch
+onefetchgit
 lazyvim
 lazygit
 vscode
@@ -98,6 +98,7 @@ duf # https://github.com/muesli/duf/releases/download/v0.6.0/duf_0.6.0_linux_amd
 fasd
 highlight
 # rust apps
+onefetch
 du-dust  # du
 ripgrep  # grep
 procs    # ps
