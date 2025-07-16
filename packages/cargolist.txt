@@ -2,6 +2,9 @@ bat v0.25.0:
     bat
 broot v1.47.0:
     broot
+cargo-update v16.3.2:
+    cargo-install-update
+    cargo-install-update-config
 du-dust v1.2.2:
     dust
 exa v0.10.1:

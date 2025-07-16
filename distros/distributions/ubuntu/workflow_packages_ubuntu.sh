@@ -98,6 +98,8 @@ duf # https://github.com/muesli/duf/releases/download/v0.6.0/duf_0.6.0_linux_amd
 fasd
 highlight
 # rust apps
+sudo apt-get install libssl-dev
+cargo-update
 onefetch
 du-dust  # du
 ripgrep  # grep
@@ -138,6 +140,7 @@ ilanCosman/tide@v6         # https://github.com/IlanCosman/tide
 #
 extensions
 Tweak
+gnome-browser-connector
 # extensions
 #
 'Caffeine' by eon

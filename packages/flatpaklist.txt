@@ -1,14 +1,13 @@
+Eyedropper	com.github.finefindus.eyedropper	2.1.0	stable	system
 Extension Manager	com.mattjakeman.ExtensionManager	0.6.3	stable	system
-Stremio Service	com.stremio.Service	0.1.13	stable	system
-Mesa	org.freedesktop.Platform.GL.default	25.0.7	23.08	system
-Mesa (Extra)	org.freedesktop.Platform.GL.default	25.0.7	23.08-extra	system
+Stremio	com.stremio.Stremio	4.4.168	stable	system
 Mesa	org.freedesktop.Platform.GL.default	25.1.3	24.08	system
 Mesa (Extra)	org.freedesktop.Platform.GL.default	25.1.3	24.08extra	system
-Intel VAAPI driver	org.freedesktop.Platform.VAAPI.Intel		23.08	system
 Intel VAAPI driver	org.freedesktop.Platform.VAAPI.Intel		24.08	system
-openh264	org.freedesktop.Platform.openh264	2.4.1	2.4.1	system
 openh264	org.freedesktop.Platform.openh264	2.5.1	2.5.1	system
-GNOME Application Platform version 46	org.gnome.Platform		46	system
 GNOME Application Platform version 48	org.gnome.Platform		48	system
 Yaru Gtk Theme	org.gtk.Gtk3theme.Yaru		3.22	system
 Yaru-dark Gtk Theme	org.gtk.Gtk3theme.Yaru-dark		3.22	system
+KDE Application Platform	org.kde.Platform		5.15-24.08	system
+QGnomePlatform	org.kde.PlatformTheme.QGnomePlatform		5.15-24.08	system
+QAdwaitaDecorations	org.kde.WaylandDecoration.QAdwaitaDecorations		5.15-24.08	system
