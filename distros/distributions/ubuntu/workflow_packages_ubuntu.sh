@@ -149,6 +149,7 @@ gnome-browser-connector
 'Tiling Shell' by domferr
 'Workspaces indicator' by open apps by Favo02
 'Vitals' by corecoding
+'SimpleWeather' by Roman Lefler
 #
 'OpenWeather' by skrewball
 'Pano' - Clipboard Manager by alperenelhan
