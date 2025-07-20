@@ -1,7 +1,7 @@
 format = """
-[░▒▓](#a3aed2)\
-[ ](bg:#a3aed2 fg:#090c0c)\
-[](bg:#769ff0 fg:#a3aed2)\
+[░▒▓](#E95420)\
+[  ](bg:#E95420 fg:#FFFFFF)\
+[](bg:#769ff0 fg:#E95420)\
 $directory\
 [](fg:#769ff0 bg:#394260)\
 $git_branch\
@@ -27,7 +27,7 @@ truncation_symbol = "…/"
 "Downloads" = " "
 "Music" = " "
 "Pictures" = " "
-"Projects" = "  "
+"Projects" = " "
 
 [git_branch]
 symbol = ""
@@ -58,8 +58,13 @@ symbol = ""
 style = "bg:#212736"
 format = '[[ $symbol ($version) ](fg:#769ff0 bg:#212736)]($style)'
 
+[python]
+symbol = ""
+style = "bg:#212736"
+format = '[[ $symbol ($version) ](fg:#769ff0 bg:#212736)]($style)'
+
 [time]
 disabled = false
-time_format = "%R" # Hour:Minute Format
+time_format = "%R"                                      # Hour:Minute Format
 style = "bg:#1d2230"
 format = '[[  $time ](fg:#a0a9cb bg:#1d2230)]($style)'
