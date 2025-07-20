@@ -153,11 +153,11 @@ Tweak
 gnome-browser-connector
 # extensions
 #
-'Bubblemail' by Razer
-'Caffeine' by eon
-'Lock Keys' by kazimieras.vaina
-'Pomodoro' by kamilprusko
-'SimpleWeather' by Roman Lefler
-'Tiling Shell' by domferr
-'Transparent Top Bar (Adjustable transparency)' by Gonzague
-'Workspaces indicator' by open apps by Favo02
+Bubblemail - by Razer
+Caffeine - by eon
+Lock_Keys - by kazimieras.vaina
+Pomodoro - by kamilprusko
+SimpleWeather - by Roman Lefler
+Tiling_Shell - by domferr
+Transparent_Top_Bar - by Gonzague
+Workspaces_indicator - by open apps by Favo02
