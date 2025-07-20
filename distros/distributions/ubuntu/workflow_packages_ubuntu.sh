@@ -65,7 +65,8 @@ github desktop
 vim
 neovim
 git
-onefetchgit
+onefetch
+git
 lazyvim
 lazygit
 vscode
@@ -92,15 +93,24 @@ preload
 cheat https://github.com/cheat/cheat
 
 ### terminal
+# default terminal apps
+sudo update-alternatives --install /usr/bin/x-terminal-emulator x-terminal-emulator /home/colps/.local/bin/kitty 100
+sudo update-alternatives --config x-terminal-emulator
+sudo update-alternatives --install /usr/bin/editor editor /home/colps/.local/bin/nvim 100
+sudo update-alternatives --config editor
+sudo update-alternatives --install /usr/bin/x-www-browser x-www-browser /snap/bin/opera 100
+sudo update-alternatives --config x-www-browser
+#
 warp
 kitty
 duf # https://github.com/muesli/duf/releases/download/v0.6.0/duf_0.6.0_linux_amd64.deb
 fasd
 highlight
+atool
+fontforge
 # rust apps
 sudo apt-get install libssl-dev
 cargo-update
-onefetch
 du-dust  # du
 ripgrep  # grep
 procs    # ps
@@ -143,13 +153,11 @@ Tweak
 gnome-browser-connector
 # extensions
 #
+'Bubblemail' by Razer
 'Caffeine' by eon
-'Dash2Dock Animated' by icedman
 'Lock Keys' by kazimieras.vaina
-'Tiling Shell' by domferr
-'Workspaces indicator' by open apps by Favo02
-'Vitals' by corecoding
+'Pomodoro' by kamilprusko
 'SimpleWeather' by Roman Lefler
-#
-'OpenWeather' by skrewball
-'Pano' - Clipboard Manager by alperenelhan
+'Tiling Shell' by domferr
+'Transparent Top Bar (Adjustable transparency)' by Gonzague
+'Workspaces indicator' by open apps by Favo02
