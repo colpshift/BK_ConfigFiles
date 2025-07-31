@@ -91,6 +91,13 @@ htop
 btop
 preload
 cheat https://github.com/cheat/cheat
+acpi
+tlp
+tlpui # flatpak install flathub com.github.d4nj1.tlpui
+# battery optimization
+# edit /etc/tlp.conf
+# START_CHARGE_THRESH_BAT0=75
+# STOP_CHARGE_THRESH_BAT0=80
 
 ### terminal
 # default terminal apps
