@@ -5,7 +5,7 @@ broot v1.47.0:
 cargo-update v17.0.0:
     cargo-install-update
     cargo-install-update-config
-du-dust v1.2.2:
+du-dust v1.2.3:
     dust
 exa v0.10.1:
     exa
