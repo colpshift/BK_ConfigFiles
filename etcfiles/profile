@@ -27,7 +27,8 @@ if [ -d /etc/profile.d ]; then
 fi
 
 ### Default apps
-rt TERMINAL=kitty
-rt EDITOR=nvim
-rt VISUAL=nvim
-rt PAGER=less
+export TERMINAL=kitty
+export EDITOR=nvim
+export VISUAL=nvim
+export PAGER=less
+export BROWSER=firefox
