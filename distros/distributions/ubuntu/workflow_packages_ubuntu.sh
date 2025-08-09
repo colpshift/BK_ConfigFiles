@@ -30,10 +30,10 @@ onlyoffice
 xmind
 
 ### internet
-opera
+firefox
 chrome
 edge
-torbrowse
+Qutebrowser
 zoom
 
 ### Audio
@@ -79,6 +79,7 @@ go
 bitwarden
 seahorse
 ufw/gufw
+torbrowser
 
 ### utilities
 deja dup / timeshift

@@ -13,6 +13,7 @@ abbr --add df duf
 abbr --add du dust
 abbr --add ps procs
 abbr --add su 'sudo -i'
+abbr --add nano '/home/colp/.local/bin/nvim'
 abbr --add vi '/home/colp/.local/bin/nvim'
 abbr --add vim '/home/colp/.local/bin/nvim'
 abbr --add gvim '/home/colp/.local/bin/nvim'
@@ -32,8 +33,6 @@ abbr --add aptu 'sudo apt update && sudo apt full-upgrade && sudo apt autoremove
 # abbr --add nala 'sudo nala'
 # abbr --add nalau 'sudo nala update && sudo nala full-upgrade && sudo nala autoremove && sudo nala autopurge'
 abbr --add cls clear
-abbr --add vi nvim
-abbr --add vim nvim
 abbr --add myip 'curl http://ipecho.net/plain; echo'
 abbr --add ports 'sudo ss -tulanp'
 abbr --add ubui 'clear && fastfetch'
