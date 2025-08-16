@@ -1,8 +1,8 @@
 Eyedropper	com.github.finefindus.eyedropper	2.1.0	stable	system
 Extension Manager	com.mattjakeman.ExtensionManager	0.6.3	stable	system
 Stremio	com.stremio.Stremio	4.4.168	stable	system
-Mesa	org.freedesktop.Platform.GL.default	25.1.3	24.08	system
-Mesa (Extra)	org.freedesktop.Platform.GL.default	25.1.3	24.08extra	system
+Mesa	org.freedesktop.Platform.GL.default	25.1.7	24.08	system
+Mesa (Extra)	org.freedesktop.Platform.GL.default	25.1.7	24.08extra	system
 Intel VAAPI driver	org.freedesktop.Platform.VAAPI.Intel		24.08	system
 openh264	org.freedesktop.Platform.openh264	2.5.1	2.5.1	system
 GNOME Application Platform version 48	org.gnome.Platform		48	system
