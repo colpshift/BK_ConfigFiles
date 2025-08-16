@@ -11,7 +11,7 @@ exa v0.10.1:
     exa
 fd-find v10.2.0:
     fd
-gping v1.19.0:
+gping v1.20.1:
     gping
 onefetch v2.25.0:
     onefetch
