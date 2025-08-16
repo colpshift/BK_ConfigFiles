@@ -53,7 +53,7 @@ include current-theme.conf
 # END_KITTY_THEME
 
 # BEGIN_KITTY_FONTS
-font_family      family="CaskaydiaCove Nerd Font"
+font_family      family="UbuntuSansMono Nerd Font"
 bold_font        auto
 italic_font      auto
 bold_italic_font auto
