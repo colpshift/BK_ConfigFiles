@@ -116,6 +116,8 @@ fasd
 highlight
 atool
 fontforge
+jq
+stow
 # rust apps
 sudo apt-get install libssl-dev
 cargo-update
