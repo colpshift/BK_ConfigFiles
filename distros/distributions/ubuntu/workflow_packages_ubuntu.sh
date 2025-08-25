@@ -40,6 +40,8 @@ zoom
 Audacious
 Spotify
 Shortwave
+Pavucontrol
+# settings for sound 7.1 https://www.youtube.com/watch?v=F-NeDFRDFCI
 
 ### Video
 VLC Media Player
