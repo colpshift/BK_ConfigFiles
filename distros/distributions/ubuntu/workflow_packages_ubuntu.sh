@@ -5,7 +5,7 @@
 
 ### reduce swappiness
 cat /proc/sys/vm/swappiness
-swappiness=10
+# modify to swappiness=10
 
 ### configuration
 sudo apt install libfuse2t64
