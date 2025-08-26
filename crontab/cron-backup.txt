@@ -10,6 +10,8 @@
 # * * * * * command to be executed
 #
 #--------------------------------------------------
-30 10 * * * /home/colps/.script/nvim_install_update.sh
-15 11 * * 1 /home/colps/.script/clear_log_nvim.sh
-30 11 * * 1 /home/colps/.script/clear_log_screenshot.sh
+30 7 * * * /home/colps/Projects/BE_Shells/shellscript/shScripts/shCurrent/nvim_install_update.sh
+15 8 * * 1 /home/colps/Projects/BE_Shells/shellscript/shScripts/shCurrent/clear_log_nvim.sh
+30 8 * * 1 /home/colps/Projects/BE_Shells/shellscript/shScripts/shCurrent/clear_log_screenshot.sh
+@daily /home/colps/Projects/BE_Shells/shellscript/shScripts/shCurrent/pku.sh
+

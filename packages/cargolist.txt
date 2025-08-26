@@ -9,7 +9,7 @@ du-dust v1.2.3:
     dust
 exa v0.10.1:
     exa
-fd-find v10.2.0:
+fd-find v10.3.0:
     fd
 gping v1.20.1:
     gping
