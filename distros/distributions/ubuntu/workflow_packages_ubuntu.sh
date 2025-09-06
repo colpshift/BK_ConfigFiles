@@ -82,6 +82,7 @@ bitwarden
 seahorse
 ufw/gufw
 torbrowser
+chezmoi
 
 ### utilities
 deja dup / timeshift

@@ -71,11 +71,8 @@ if set -q KITTY_INSTALLATION_DIR
     set --prepend fish_complete_path "$KITTY_INSTALLATION_DIR/shell-integration/fish/vendor_completions.d"
 end
 
-# prompt oh my posh
-#oh-my-posh init fish --config '/home/colps/.config/fish/themes_ohmyposh/powerlevel10k_rainbow.omp.json' | source
-
 # source
 source "$HOME/.cargo/env.fish"
 
 # starship prompt
-starship init fish | source
+# starship init fish | source
